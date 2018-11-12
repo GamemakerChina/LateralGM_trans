@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Batch</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050641Z" creationid="LiarOnce" creationdate="20181112T050641Z">
+        <seg>批量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044957Z" creationid="LiarOnce" creationdate="20181112T044957Z">
@@ -502,10 +510,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Border</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050724Z" creationid="LiarOnce" creationdate="20181112T050717Z">
+        <seg>边界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bottom</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170215T151816Z" creationid="deciia" creationdate="20170215T151816Z">
         <seg>底</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Boundary View</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050743Z" creationid="LiarOnce" creationdate="20181112T050743Z">
+        <seg>边界视野</seg>
       </tuv>
     </tu>
     <tu>
@@ -1558,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Foreground</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050706Z" creationid="LiarOnce" creationdate="20181112T050706Z">
+        <seg>前景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Foregrounds</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050630Z" creationid="LiarOnce" creationdate="20181112T050630Z">
@@ -1698,6 +1730,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091456Z" creationid="LiarOnce" creationdate="20181008T052840Z">
         <seg>全局</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Global Mouse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050738Z" creationid="LiarOnce" creationdate="20181112T050738Z">
+        <seg>全局鼠标</seg>
       </tuv>
     </tu>
     <tu>
@@ -2090,6 +2130,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050007Z" creationid="LiarOnce" creationdate="20181112T050007Z">
         <seg>LCD VRGB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Layer:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050705Z" creationid="LiarOnce" creationdate="20181112T050705Z">
+        <seg>图层：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3054,6 +3102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Room controls</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050633Z" creationid="LiarOnce" creationdate="20181112T050633Z">
+        <seg>房间控制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rooms</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051744Z" creationid="LiarOnce" creationdate="20181008T051744Z">
@@ -3624,6 +3680,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tileset</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050649Z" creationid="LiarOnce" creationdate="20181112T050649Z">
+        <seg>图块集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Timeline</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044221Z" creationid="LiarOnce" creationdate="20181112T044221Z">
@@ -3732,6 +3796,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T075345Z" creationid="deciia" creationdate="20170104T075345Z">
         <seg>启用垂直同步避免画面撕裂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User Defined</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050740Z" creationid="LiarOnce" creationdate="20181112T050740Z">
+        <seg>用户定义</seg>
       </tuv>
     </tu>
     <tu>
@@ -3942,6 +4014,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180926T223605Z" creationid="deciia" creationdate="20170102T083718Z">
         <seg>Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows 8 (Javascript)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050745Z" creationid="LiarOnce" creationdate="20181112T050745Z">
+        <seg>Windows 8 (Javascript)</seg>
       </tuv>
     </tu>
     <tu>
