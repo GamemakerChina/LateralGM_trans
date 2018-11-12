@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045000Z" creationid="LiarOnce" creationdate="20181112T045000Z">
+        <seg>后</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alarm</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T043554Z" creationid="deciia" creationdate="20170102T043554Z">
@@ -230,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Arrange Icons		I</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044817Z" creationid="LiarOnce" creationdate="20181112T044817Z">
+        <seg>排列图标		I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Asynchronous</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T044058Z" creationid="deciia" creationdate="20170102T044038Z">
@@ -294,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Before</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044957Z" creationid="LiarOnce" creationdate="20181112T044957Z">
+        <seg>前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Begin Step</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044954Z" creationid="LiarOnce" creationdate="20181008T044954Z">
@@ -306,6 +330,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T134223Z" creationid="deciia" creationdate="20170103T134223Z">
         <seg>比特率(kbps):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Black and White</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045006Z" creationid="LiarOnce" creationdate="20181112T045006Z">
+        <seg>黑白相间</seg>
       </tuv>
     </tu>
     <tu>
@@ -342,10 +374,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brightness:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045037Z" creationid="LiarOnce" creationdate="20181112T045037Z">
+        <seg>亮度:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044644Z" creationid="LiarOnce" creationdate="20181008T044644Z">
         <seg>取消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cascade Frames		A</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044757Z" creationid="LiarOnce" creationdate="20181112T044757Z">
+        <seg>级联框架		A</seg>
       </tuv>
     </tu>
     <tu>
@@ -382,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Choose a Color</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044741Z" creationid="LiarOnce" creationdate="20181112T044741Z">
+        <seg>选择颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clear</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T031919Z" creationid="deciia" creationdate="20170104T031919Z">
@@ -394,6 +450,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T045720Z" creationid="deciia" creationdate="20170104T045720Z">
         <seg>关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close				C</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044834Z" creationid="LiarOnce" creationdate="20181112T044834Z">
+        <seg>关闭				C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close All			L</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044823Z" creationid="LiarOnce" creationdate="20181112T044823Z">
+        <seg>关闭所有			L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close All Others	O</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044844Z" creationid="LiarOnce" creationdate="20181112T044844Z">
+        <seg>关闭其他	O</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Colorize</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045030Z" creationid="LiarOnce" creationdate="20181112T045030Z">
+        <seg>着色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Comments</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170105T055323Z" creationid="deciia" creationdate="20170105T055323Z">
@@ -550,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Contrast:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045102Z" creationid="LiarOnce" creationdate="20181112T045041Z">
+        <seg>对比度:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T091859Z" creationid="deciia" creationdate="20170102T091859Z">
@@ -570,6 +666,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T052932Z" creationid="LiarOnce" creationdate="20181008T052932Z">
         <seg>创建</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create New Configuration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044848Z" creationid="LiarOnce" creationdate="20181112T044848Z">
+        <seg>创建新配置</seg>
       </tuv>
     </tu>
     <tu>
@@ -650,6 +754,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T102605Z" creationid="deciia" creationdate="20170103T102605Z">
         <seg>删除事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Delete Selected Configurations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044851Z" creationid="LiarOnce" creationdate="20181112T044851Z">
+        <seg>删除所选配置</seg>
       </tuv>
     </tu>
     <tu>
@@ -750,10 +862,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Duplicate Selected Configuration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044850Z" creationid="LiarOnce" creationdate="20181112T044850Z">
+        <seg>复制所选配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edge Detection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045009Z" creationid="LiarOnce" creationdate="20181112T045009Z">
+        <seg>边缘检测</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T083709Z" creationid="deciia" creationdate="20170102T083709Z">
         <seg>编辑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Selected Configuration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044852Z" creationid="LiarOnce" creationdate="20181112T044852Z">
+        <seg>编辑所选配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit Selected Configuration's Constants</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044858Z" creationid="LiarOnce" creationdate="20181112T044858Z">
+        <seg>编辑所选配置的常量</seg>
       </tuv>
     </tu>
     <tu>
@@ -770,6 +914,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170322T053056Z" creationid="deciia" creationdate="20170102T092317Z">
         <seg>效果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Emboss</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045011Z" creationid="LiarOnce" creationdate="20181112T045011Z">
+        <seg>浮雕</seg>
       </tuv>
     </tu>
     <tu>
@@ -894,10 +1046,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fade Color</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045023Z" creationid="LiarOnce" creationdate="20181112T045023Z">
+        <seg>淡化色彩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T083714Z" creationid="deciia" creationdate="20170102T083714Z">
         <seg>文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File				F</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045626Z" creationid="LiarOnce" creationdate="20181112T045626Z">
+        <seg>文件				F</seg>
       </tuv>
     </tu>
     <tu>
@@ -994,6 +1162,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051523Z" creationid="LiarOnce" creationdate="20181008T051523Z">
         <seg>字体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fragment Code</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045112Z" creationid="LiarOnce" creationdate="20181112T045112Z">
+        <seg>片段代码</seg>
       </tuv>
     </tu>
     <tu>
@@ -1206,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Image Effects</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044951Z" creationid="LiarOnce" creationdate="20181112T044951Z">
+        <seg>图像效果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Image Loaded</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143102Z" creationid="LiarOnce" creationdate="20181007T143102Z">
@@ -1286,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Intensity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045001Z" creationid="LiarOnce" creationdate="20181112T045001Z">
+        <seg>强度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Intensity:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T095454Z" creationid="deciia" creationdate="20170102T095454Z">
@@ -1298,6 +1490,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T231629Z" creationid="deciia" creationdate="20170102T062513Z">
         <seg>相交边界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invert Color</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045008Z" creationid="LiarOnce" creationdate="20181112T045008Z">
+        <seg>反转颜色</seg>
       </tuv>
     </tu>
     <tu>
@@ -1470,6 +1670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Minimize All		M</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044830Z" creationid="LiarOnce" creationdate="20181112T044830Z">
+        <seg>最小化所有		M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Moments:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033910Z" creationid="LiarOnce" creationdate="20181111T033910Z">
@@ -1562,6 +1770,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170313T145129Z" creationid="deciia" creationdate="20170103T102851Z">
         <seg>新建</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New					N</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045631Z" creationid="LiarOnce" creationdate="20181112T045631Z">
+        <seg>新建					N</seg>
       </tuv>
     </tu>
     <tu>
@@ -1918,6 +2134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prune Results</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045139Z" creationid="LiarOnce" creationdate="20181112T045139Z">
+        <seg>修剪结果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Quality</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T032303Z" creationid="LiarOnce" creationdate="20181021T032303Z">
@@ -1958,6 +2182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regular Expression</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045133Z" creationid="LiarOnce" creationdate="20181112T045133Z">
+        <seg>正则表达式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Relative</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T135133Z" creationid="deciia" creationdate="20181006T130531Z">
@@ -1966,10 +2198,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remove Color</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045020Z" creationid="LiarOnce" creationdate="20181112T045020Z">
+        <seg>删除颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remove Transparency</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045025Z" creationid="LiarOnce" creationdate="20181112T045025Z">
+        <seg>删除透明度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rename</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161223T064905Z" creationid="deciia" creationdate="20161223T064905Z">
         <seg>重命名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Repetitions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045109Z" creationid="LiarOnce" creationdate="20181112T045109Z">
+        <seg>重复</seg>
       </tuv>
     </tu>
     <tu>
@@ -2182,6 +2438,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search for Resources...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045142Z" creationid="LiarOnce" creationdate="20181112T045142Z">
+        <seg>搜索资源...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search in Resources</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045134Z" creationid="LiarOnce" creationdate="20181112T045134Z">
+        <seg>在资源中搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select All</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051403Z" creationid="LiarOnce" creationdate="20181008T051403Z">
@@ -2214,6 +2486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Session Started</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045203Z" creationid="LiarOnce" creationdate="20181112T045203Z">
+        <seg>已启动的会话</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Settings</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170314T163946Z" creationid="deciia" creationdate="20170314T163946Z">
@@ -2234,6 +2514,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T114401Z" creationid="deciia" creationdate="20170103T114401Z">
         <seg>着色器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sharpen</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045018Z" creationid="LiarOnce" creationdate="20181112T045012Z">
+        <seg>锐化</seg>
       </tuv>
     </tu>
     <tu>
@@ -2544,6 +2832,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transparency:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045035Z" creationid="LiarOnce" creationdate="20181112T045035Z">
+        <seg>透明度:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tree Filter Settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045156Z" creationid="LiarOnce" creationdate="20181112T045156Z">
+        <seg>树过滤器设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trigger</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T072007Z" creationid="deciia" creationdate="20170215T151645Z">
@@ -2656,6 +2960,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vertex Code</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045111Z" creationid="LiarOnce" creationdate="20181112T045111Z">
+        <seg>顶点代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vertical</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044558Z" creationid="LiarOnce" creationdate="20181008T044558Z">
@@ -2762,6 +3074,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Window				W</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044746Z" creationid="LiarOnce" creationdate="20181112T044746Z">
+        <seg>窗口				W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Windows</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180926T223605Z" creationid="deciia" creationdate="20170102T083718Z">
@@ -2838,6 +3158,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044703Z" creationid="LiarOnce" creationdate="20181030T044703Z">
         <seg>id:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>matches</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045128Z" creationid="LiarOnce" creationdate="20181112T045128Z">
+        <seg>匹配</seg>
       </tuv>
     </tu>
     <tu>
