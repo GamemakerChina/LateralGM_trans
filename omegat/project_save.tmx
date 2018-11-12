@@ -894,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copy selection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050835Z" creationid="LiarOnce" creationdate="20181112T050835Z">
+        <seg>复制所选</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copyright:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090312Z" creationid="LiarOnce" creationdate="20181020T090312Z">
@@ -1298,6 +1306,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052650Z" creationid="LiarOnce" creationdate="20181015T052650Z">
         <seg>错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Escape sequences</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050853Z" creationid="LiarOnce" creationdate="20181112T050853Z">
+        <seg>推出序列</seg>
       </tuv>
     </tu>
     <tu>
@@ -1742,6 +1758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Go to line</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050818Z" creationid="LiarOnce" creationdate="20181112T050818Z">
+        <seg>转到行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Graphics</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T071215Z" creationid="deciia" creationdate="20180922T071215Z">
@@ -1842,6 +1866,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050131Z" creationid="LiarOnce" creationdate="20181112T050131Z">
         <seg>最高</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Highlight All</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050841Z" creationid="LiarOnce" creationdate="20181112T050841Z">
+        <seg>全部突出显示</seg>
       </tuv>
     </tu>
     <tu>
@@ -2186,6 +2218,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050518Z" creationid="LiarOnce" creationdate="20181112T050518Z">
         <seg>加载子图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Load file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050822Z" creationid="LiarOnce" creationdate="20181112T050822Z">
+        <seg>加载文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Load from file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050823Z" creationid="LiarOnce" creationdate="20181112T050823Z">
+        <seg>从文件加载</seg>
       </tuv>
     </tu>
     <tu>
@@ -2990,6 +3038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Replace all</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050858Z" creationid="LiarOnce" creationdate="20181112T050858Z">
+        <seg>替换全部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Replace:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T133739Z" creationid="deciia" creationdate="20170103T133739Z">
@@ -3198,6 +3254,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Save file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050820Z" creationid="LiarOnce" creationdate="20181112T050820Z">
+        <seg>保存文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save to file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050821Z" creationid="LiarOnce" creationdate="20181112T050821Z">
+        <seg>保存到文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scale X:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T073442Z" creationid="deciia" creationdate="20170103T073442Z">
@@ -3254,6 +3326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Search backwards</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050843Z" creationid="LiarOnce" creationdate="20181112T050843Z">
+        <seg>向后搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Search for Resources...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045142Z" creationid="LiarOnce" creationdate="20181112T045142Z">
@@ -3282,6 +3362,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T043916Z" creationid="LiarOnce" creationdate="20181007T143233Z">
         <seg>全不选</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select all</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050827Z" creationid="LiarOnce" creationdate="20181112T050827Z">
+        <seg>全选</seg>
       </tuv>
     </tu>
     <tu>
