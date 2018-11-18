@@ -6,6 +6,38 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>* Should contain only letters, digits, and the underscore ''_'' character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010836Z" creationid="LiarOnce" creationdate="20181118T010836Z">
+        <seg>* 应只包含字母、数字和下划线 "_" 字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* Should not have the same spelling and case as keywords or functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010847Z" creationid="LiarOnce" creationdate="20181118T010847Z">
+        <seg>* 不应与关键字或功能具有相同的拼写和大小写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* Should not start with an underscore or contain double underscores (reserved).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010839Z" creationid="LiarOnce" creationdate="20181118T010839Z">
+        <seg>* 不应以下划线开头或包含双下划线 (保留)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* Should start with an alphabetic letter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010830Z" creationid="LiarOnce" creationdate="20181118T010830Z">
+        <seg>* 应以字母开头。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T085507Z" creationid="LiarOnce" creationdate="20181028T085507Z">
@@ -154,6 +186,38 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005540Z" creationid="LiarOnce" creationdate="20181118T005540Z">
         <seg>&lt;html&gt; “{0}” &lt;br/&gt;&lt;p&gt;首选项中指定的 URI 似乎不可用。 &lt;br/&gt;请确认您输入了有效的 URI 或稍后重试。 &lt;/p&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;style&gt;p {margin-top: 5px; margin-bottom: 5px;}&lt;/style&gt;&lt;p&gt;It appears LateralGM has encountered an issue.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010631Z" creationid="LiarOnce" creationdate="20181118T010631Z">
+        <seg>&lt;html&gt;&lt;style&gt;p {margin-top: 5px; margin-bottom: 5px;}&lt;/style&gt;&lt;p&gt;看来LateralGM遇到了一个问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;style&gt;p {margin-top: 5px; margin-bottom: 5px;}&lt;/style&gt;&lt;p&gt;Your file appears to be corrupted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010344Z" creationid="LiarOnce" creationdate="20181118T010344Z">
+        <seg>&lt;html&gt;&lt;style&gt;p {margin-top: 5px; margin-bottom: 5px;}&lt;/style&gt;&lt;p&gt;您的文件似乎已损坏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Desktop services could not find a suitable program to open the URI.&lt;br&gt;"{0}"&lt;br&gt;Install a suitable program or web browser and try again.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010702Z" creationid="LiarOnce" creationdate="20181118T010702Z">
+        <seg>&lt;html&gt;桌面服务无法找到合适的程序来打开URI。 &lt;br&gt; “{0}” &lt;br&gt;安装合适的程序或Web浏览器，然后重试。 &lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;Unable to read file "{0}"&lt;br/&gt;No registered readers recognize it.&lt;br/&gt;It is either corrupt or incompatible.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010332Z" creationid="LiarOnce" creationdate="20181118T010332Z">
+        <seg>&lt;html&gt; 无法读取文件 “{0}”&lt;br/&gt; 没有注册读取器识别它。&lt;br/&gt;它可能已损坏或不兼容。&lt;/ html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -334,6 +398,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All names appear to be unique valid identifiers and no duplicates were detected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010858Z" creationid="LiarOnce" creationdate="20181118T010858Z">
+        <seg>所有名称似乎都是唯一有效的标识符，并且未检测到重复项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All supported files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010201Z" creationid="LiarOnce" creationdate="20181118T010201Z">
+        <seg>所有支持的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alpha Tolerance:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043614Z" creationid="LiarOnce" creationdate="20181014T043614Z">
@@ -354,6 +434,15 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050229Z" creationid="LiarOnce" creationdate="20181112T050229Z">
         <seg>始终置顶</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An error occurred while saving to {0}:
+{1} - {2}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010559Z" creationid="LiarOnce" creationdate="20181118T010559Z">
+        <seg>保存到 {0} 时出错: {1}-{2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,6 +515,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044817Z" creationid="LiarOnce" creationdate="20181112T044817Z">
         <seg>排列图标		I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assign a Valid Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010853Z" creationid="LiarOnce" creationdate="20181118T010853Z">
+        <seg>分配有效名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -606,6 +703,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Can''t seek to {0} from {1}, position already passed (required skip: {2})</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010148Z" creationid="LiarOnce" creationdate="20181118T010148Z">
+        <seg>无法从 {1} 寻找 {0}，已经通过的位置（必需跳过：{2}）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044644Z" creationid="LiarOnce" creationdate="20181008T044644Z">
@@ -674,6 +779,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045800Z" creationid="LiarOnce" creationdate="20181112T045800Z">
         <seg>检查名称			N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check the file name and try again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010617Z" creationid="LiarOnce" creationdate="20181118T010617Z">
+        <seg>请检查文件名, 然后重试。</seg>
       </tuv>
     </tu>
     <tu>
@@ -926,6 +1039,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Confirm Deletion</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010757Z" creationid="LiarOnce" creationdate="20181118T010757Z">
+        <seg>确认删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Constants</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051751Z" creationid="LiarOnce" creationdate="20181008T051751Z">
@@ -958,10 +1079,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copy to Clipboard</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010704Z" creationid="LiarOnce" creationdate="20181118T010704Z">
+        <seg>复制到剪贴板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copyright:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090312Z" creationid="LiarOnce" creationdate="20181020T090312Z">
         <seg>版权:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Could not move {0} to a backup.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010436Z" creationid="LiarOnce" creationdate="20181118T010436Z">
+        <seg>无法将 {0} 移动到备份。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1094,6 +1231,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Delete resources in selection?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010755Z" creationid="LiarOnce" creationdate="20181118T010755Z">
+        <seg>是否删除所选资源？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Delete underlying</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181027T082304Z" creationid="LiarOnce" creationdate="20181027T082304Z">
@@ -1134,6 +1279,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Desktop Services Unavailable</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010651Z" creationid="LiarOnce" creationdate="20181118T010651Z">
+        <seg>桌面服务不可用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Destroy</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T044141Z" creationid="deciia" creationdate="20170102T044141Z">
@@ -1162,6 +1315,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050010Z" creationid="LiarOnce" creationdate="20181112T050010Z">
         <seg>Direct3D:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you want to overwrite its contents?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010441Z" creationid="LiarOnce" creationdate="20181118T010441Z">
+        <seg>你想覆盖它的内容吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do you wish to replace it?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010551Z" creationid="LiarOnce" creationdate="20181118T010551Z">
+        <seg>你想更换它吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Document</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010711Z" creationid="LiarOnce" creationdate="20181118T010711Z">
+        <seg>文档</seg>
       </tuv>
     </tu>
     <tu>
@@ -1218,6 +1395,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T102633Z" creationid="deciia" creationdate="20170103T102633Z">
         <seg>复制事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplicate Name Detected</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010815Z" creationid="LiarOnce" creationdate="20181118T010815Z">
+        <seg>检测到重复的名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -1350,10 +1535,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Enter a new name for {0} "{1}":</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010851Z" creationid="LiarOnce" creationdate="20181118T010851Z">
+        <seg>输入 {0} "{1}" 的新名称:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Error</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161223T080942Z" creationid="deciia" creationdate="20161223T080942Z">
         <seg>错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error Loading File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010334Z" creationid="LiarOnce" creationdate="20181118T010334Z">
+        <seg>加载文件时出错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error Making Backup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010432Z" creationid="LiarOnce" creationdate="20181118T010432Z">
+        <seg>备份时出错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error Saving File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010552Z" creationid="LiarOnce" creationdate="20181118T010552Z">
+        <seg>保存文件时出错</seg>
       </tuv>
     </tu>
     <tu>
@@ -1462,6 +1679,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extension {0} does not match version {1}.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010447Z" creationid="LiarOnce" creationdate="20181118T010447Z">
+        <seg>扩展 {0} 与版本 {1} 不匹配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extensions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T044404Z" creationid="LiarOnce" creationdate="20181009T044404Z">
@@ -1506,6 +1731,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045626Z" creationid="LiarOnce" creationdate="20181112T045626Z">
         <seg>文件				F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File Tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010731Z" creationid="LiarOnce" creationdate="20181118T010731Z">
+        <seg>文件树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File already exists!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010620Z" creationid="LiarOnce" creationdate="20181118T010620Z">
+        <seg>文件已存在！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File not found!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010613Z" creationid="LiarOnce" creationdate="20181118T010613Z">
+        <seg>找不到文件!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1662,6 +1911,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Force extension</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010443Z" creationid="LiarOnce" creationdate="20181118T010443Z">
+        <seg>强制扩展</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Foreground</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050706Z" creationid="LiarOnce" creationdate="20181112T050706Z">
@@ -1750,6 +2007,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GMK Loading</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010708Z" creationid="LiarOnce" creationdate="20181118T010708Z">
+        <seg>GMK Loading</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GMK Saving</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010709Z" creationid="LiarOnce" creationdate="20181118T010709Z">
+        <seg>GMK Saving</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GMX Loading</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010707Z" creationid="LiarOnce" creationdate="20181118T010707Z">
+        <seg>GMX Loading</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GMX Saving</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010708Z" creationid="LiarOnce" creationdate="20181118T010708Z">
+        <seg>GMX Saving</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Game</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T070038Z" creationid="deciia" creationdate="20170104T070038Z">
@@ -1770,6 +2059,46 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143316Z" creationid="LiarOnce" creationdate="20181007T143316Z">
         <seg>游戏信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Game Maker 5.3 Files (*.gmd)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010211Z" creationid="LiarOnce" creationdate="20181118T010211Z">
+        <seg>Game Maker 5.3 Files (*.gmd)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Game Maker 6 Files (*.gm6)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010211Z" creationid="LiarOnce" creationdate="20181118T010211Z">
+        <seg>Game Maker 6 Files (*.gm6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Game Maker 7/8 Files (*.gmk)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010210Z" creationid="LiarOnce" creationdate="20181118T010210Z">
+        <seg>Game Maker 7/8 Files (*.gmk)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Game Maker 8.1 Files (*.gm81)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010210Z" creationid="LiarOnce" creationdate="20181118T010210Z">
+        <seg>Game Maker 8.1 Files (*.gm81)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Game Maker Studio Files (*.project.gmx)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010208Z" creationid="LiarOnce" creationdate="20181118T010208Z">
+        <seg>Game Maker Studio Files (*.project.gmx)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1858,6 +2187,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045723Z" creationid="LiarOnce" creationdate="20181112T045723Z">
         <seg>组		G</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Group Name?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010752Z" creationid="LiarOnce" creationdate="20181118T010752Z">
+        <seg>组名称？</seg>
       </tuv>
     </tu>
     <tu>
@@ -2038,6 +2375,62 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Gm5 Data File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010025Z" creationid="LiarOnce" creationdate="20181118T010025Z">
+        <seg>在 Gm5 数据文件中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Included File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010027Z" creationid="LiarOnce" creationdate="20181118T010027Z">
+        <seg>在包含的文件中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Object {0}, Event type {1}, action {2}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010112Z" creationid="LiarOnce" creationdate="20181118T010112Z">
+        <seg>在物体 {0} 中, 事件类型 {1}, 操作 {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Object {0}, Main event type {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010101Z" creationid="LiarOnce" creationdate="20181118T010101Z">
+        <seg>在物体 {0} 中，主事件类型 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Timeline {0}, Moment {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010036Z" creationid="LiarOnce" creationdate="20181118T010036Z">
+        <seg>在时间轴 {0} 中，时刻 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Timeline {0}, Moment {1}, action {2}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010048Z" creationid="LiarOnce" creationdate="20181118T010048Z">
+        <seg>在时间轴 {0} 中，时刻 {1}，操作 {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the second version after Game Information</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010015Z" creationid="LiarOnce" creationdate="20181118T010015Z">
+        <seg>在游戏信息之后的第二个版本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In {0}, ID {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005837Z" creationid="LiarOnce" creationdate="20181118T005837Z">
@@ -2146,6 +2539,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T231629Z" creationid="deciia" creationdate="20170102T062513Z">
         <seg>相交边界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Invalid Name Detected</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010822Z" creationid="LiarOnce" creationdate="20181118T010822Z">
+        <seg>检测到无效的名称</seg>
       </tuv>
     </tu>
     <tu>
@@ -2274,6 +2675,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T045147Z" creationid="deciia" creationdate="20170102T045147Z">
         <seg>字母</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Library Creation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010730Z" creationid="LiarOnce" creationdate="20181118T010730Z">
+        <seg>Lib 创建</seg>
       </tuv>
     </tu>
     <tu>
@@ -2534,6 +2943,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Names Appear Unique and Valid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013216Z" creationid="LiarOnce" creationdate="20181118T013216Z">
+        <seg>名称显示为唯一和有效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Names should be valid identifiers according to the variable naming rules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010826Z" creationid="LiarOnce" creationdate="20181118T010826Z">
+        <seg>根据变量命名规则, 名称应该是有效的标识符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Networking</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143118Z" creationid="LiarOnce" creationdate="20181007T143118Z">
@@ -2554,6 +2979,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045631Z" creationid="LiarOnce" creationdate="20181112T045631Z">
         <seg>新建					N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>New Game?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010747Z" creationid="LiarOnce" creationdate="20181118T010747Z">
+        <seg>新游戏？</seg>
       </tuv>
     </tu>
     <tu>
@@ -2666,6 +3099,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T074221Z" creationid="deciia" creationdate="20170102T070804Z">
         <seg>关</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Old Game Maker Files (*.gm81;*.gmk;*.gm6)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010209Z" creationid="LiarOnce" creationdate="20181118T010209Z">
+        <seg>Old Game Maker Files (*.gm81;*.gmk;*.gm6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Old Game Maker Files (*.gm81;*.gmk;*.gm6;*.gmd)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010208Z" creationid="LiarOnce" creationdate="20181118T010208Z">
+        <seg>Old Game Maker Files (*.gm81;*.gmk;*.gm6;*.gmd)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2902,6 +3351,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Postponed References</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010717Z" creationid="LiarOnce" creationdate="20181118T010717Z">
+        <seg>已推迟的引用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Precision:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T104436Z" creationid="deciia" creationdate="20170103T104436Z">
@@ -2986,6 +3443,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181020T090309Z" creationid="LiarOnce" creationdate="20181020T090309Z">
         <seg>产品:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Created</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010154Z" creationid="LiarOnce" creationdate="20181118T010151Z">
+        <seg>已创建项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Loaded</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010155Z" creationid="LiarOnce" creationdate="20181118T010155Z">
+        <seg>项目已加载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project Saved</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010159Z" creationid="LiarOnce" creationdate="20181118T010159Z">
+        <seg>项目已保存</seg>
       </tuv>
     </tu>
     <tu>
@@ -3246,6 +3727,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Room Execution</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010719Z" creationid="LiarOnce" creationdate="20181118T010719Z">
+        <seg>房间执行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Room Start</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T062551Z" creationid="deciia" creationdate="20170102T062551Z">
@@ -3338,6 +3827,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045654Z" creationid="LiarOnce" creationdate="20181112T045654Z">
         <seg>另存为...			A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010544Z" creationid="LiarOnce" creationdate="20181118T010544Z">
+        <seg>保存文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -3728,6 +4225,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Start a new game anyway?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010743Z" creationid="LiarOnce" creationdate="20181118T010743Z">
+        <seg>无论如何开始新游戏？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Start in fullscreen mode</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181021T024314Z" creationid="LiarOnce" creationdate="20181021T024314Z">
@@ -3796,6 +4301,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045854Z" creationid="LiarOnce" creationdate="20181112T045854Z">
         <seg>报告问题		S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Submit Report</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010705Z" creationid="LiarOnce" creationdate="20181118T010705Z">
+        <seg>提交报告</seg>
       </tuv>
     </tu>
     <tu>
@@ -3944,6 +4457,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tried to skip {0}, but only skipped {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010128Z" creationid="LiarOnce" creationdate="20181118T010128Z">
+        <seg>试图跳过 {0}，但只跳过 {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Trigger</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T072007Z" creationid="deciia" creationdate="20170215T151645Z">
@@ -3992,6 +4513,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unexpected end of file reached at filepos: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010119Z" creationid="LiarOnce" creationdate="20181118T010119Z">
+        <seg>在 filepos 达到意外的文件结尾：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unhandled Exception</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010624Z" creationid="LiarOnce" creationdate="20181118T010624Z">
+        <seg>未处理的异常</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Uninstall</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T045038Z" creationid="LiarOnce" creationdate="20181009T045038Z">
@@ -4000,10 +4537,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unrecognized File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010214Z" creationid="LiarOnce" creationdate="20181118T010214Z">
+        <seg>无法识别的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsaved changes will be lost.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010733Z" creationid="LiarOnce" creationdate="20181118T010733Z">
+        <seg>未保存的更改将丢失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Up</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T045031Z" creationid="LiarOnce" creationdate="20181008T045031Z">
         <seg>上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use anyway?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010540Z" creationid="LiarOnce" creationdate="20181118T010540Z">
+        <seg>还是用吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -4242,6 +4803,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Would you like to assign a new name?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010813Z" creationid="LiarOnce" creationdate="20181118T010813Z">
+        <seg>是否要指定新名称？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Would you like to overwrite the file anyway?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010622Z" creationid="LiarOnce" creationdate="20181118T010622Z">
+        <seg>是否仍要覆盖该文件？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wrap</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T074642Z" creationid="deciia" creationdate="20180922T074642Z">
@@ -4326,6 +4903,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181029T050751Z" creationid="LiarOnce" creationdate="20181029T050751Z">
         <seg>Y:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can still use what LGM has managed to read, but&lt;br&gt;the tree has been rebuilt, so all grouping and order has been lost.&lt;br&gt;If you think this was caused by a bug in LGM, please submit this error report, and we&lt;br&gt;will do our best to fix the problem.&lt;/p&gt;&lt;p&gt;Error Report:&lt;/p&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010427Z" creationid="LiarOnce" creationdate="20181118T010427Z">
+        <seg>您仍然可以使用 LGM 成功读取的内容, 但 &lt;br&gt; 树已重建, 因此所有分组和顺序都已丢失 &lt;br&gt;如果您认为这是由 LGM 中的错误引起的, 请提交此错误报告, 我们 &lt;br&gt; 将尽最大努力解决此问题 &lt;/p&gt;&lt;p&gt; 错误报告: &lt;/p&gt; &lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may submit the following error report on the tracker which may help resolve the issue.&lt;br&gt;&lt;b&gt;Note: You will need a GitHub account.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Error Report:&lt;/p&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010649Z" creationid="LiarOnce" creationdate="20181118T010649Z">
+        <seg>您可以在跟踪器上提交以下错误报告，这可能有助于解决问题。 &lt;br&gt; &lt;b&gt;注意：您需要一个GitHub帐户。&lt;/b&gt; &lt;/p&gt;&lt;p&gt;错误报告： &lt;/p&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4466,10 +5059,34 @@ The quick brown fox jumps over the lazy dog.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{0} "{1}" has an invalid name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010818Z" creationid="LiarOnce" creationdate="20181118T010818Z">
+        <seg>{0} "{1}" 的名称无效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} "{1}" has the same name as {2} "{3}".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010810Z" creationid="LiarOnce" creationdate="20181118T010810Z">
+        <seg>{0} “{1}” 与 {2} “{3}” 具有相同的名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{0} - GM version unsupported or file corrupt: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005824Z" creationid="LiarOnce" creationdate="20181118T005824Z">
         <seg>{0}  -  GM 版本不受支持或文件损坏：{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} already exists.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010548Z" creationid="LiarOnce" creationdate="20181118T010548Z">
+        <seg>{0} 已存在。</seg>
       </tuv>
     </tu>
     <tu>
