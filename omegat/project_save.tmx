@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>... &lt;More&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015114Z" creationid="LiarOnce" creationdate="20181118T015106Z">
+        <seg>... &lt;更多&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T085507Z" creationid="LiarOnce" creationdate="20181028T085507Z">
@@ -166,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;Unknown Action&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T014708Z" creationid="LiarOnce" creationdate="20181118T014708Z">
+        <seg>&lt;未知动作&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;h1 style="white-space: nowrap"&gt;Copyright &amp;copy; 2006-2017&lt;/h1&gt;&lt;p style="white-space: nowrap"&gt;Version: {0}&lt;br&gt;&lt;br&gt;IsmAvatar &amp;lt;&lt;a href="mailto:IsmAvatar@gmail.com"&gt;IsmAvatar@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Clam &amp;lt;&lt;a href="mailto:clamisgood@gmail.com"&gt;clamisgood@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Quadduc &amp;lt;&lt;a href="mailto:quadduc@gmail.com"&gt;quadduc@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;TGMG &amp;lt;&lt;a href="mailto:thegamemakerguru@gmail.com"&gt;thegamemakerguru@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Robert B. Colton &amp;lt;&lt;a href="mailto:robertbcolton@gmail.com"&gt;robertbcolton@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Egofree &amp;lt;&lt;a href="mailto:egofree71@gmail.com"&gt;egofree71@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Testing: CheeseBoy&lt;br&gt;&lt;br&gt;Special thanks to everyone else who has contributed!&lt;/p&gt;&lt;p&gt;LateralGM comes with ABSOLUTELY NO WARRANTY.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005556Z" creationid="LiarOnce" creationdate="20181118T005556Z">
@@ -186,6 +202,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005540Z" creationid="LiarOnce" creationdate="20181118T005540Z">
         <seg>&lt;html&gt; “{0}” &lt;br/&gt;&lt;p&gt;首选项中指定的 URI 似乎不可用。 &lt;br/&gt;请确认您输入了有效的 URI 或稍后重试。 &lt;/p&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;&lt;nobr&gt;&lt;b&gt;Note: Translation may be incomplete or not exist!&lt;/b&gt;&lt;/nobr&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015202Z" creationid="LiarOnce" creationdate="20181118T015202Z">
+        <seg>&lt;html&gt;&lt;nobr&gt;&lt;b&gt;注意: 翻译可能不完整或不存在!&lt;/b&gt;&lt;/nobr&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -266,6 +290,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013834Z" creationid="LiarOnce" creationdate="20181118T013834Z">
         <seg>&lt;{0}&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A restart may be required for some changes to take effect.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015228Z" creationid="LiarOnce" creationdate="20181118T015228Z">
+        <seg>可能需要重新启动才能使某些更改生效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -528,6 +560,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anti-aliasing:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015325Z" creationid="LiarOnce" creationdate="20181118T015325Z">
+        <seg>抗锯齿:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Antialias:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050458Z" creationid="LiarOnce" creationdate="20181112T050458Z">
@@ -544,6 +584,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Appearance</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015237Z" creationid="LiarOnce" creationdate="20181118T015237Z">
+        <seg>外观</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Applies to</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140249Z" creationid="LiarOnce" creationdate="20181006T140249Z">
@@ -556,6 +604,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161223T065017Z" creationid="deciia" creationdate="20161223T065017Z">
         <seg>应用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply Changes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015230Z" creationid="LiarOnce" creationdate="20181118T015230Z">
+        <seg>应用更改</seg>
       </tuv>
     </tu>
     <tu>
@@ -652,6 +708,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T090600Z" creationid="LiarOnce" creationdate="20181013T090600Z">
         <seg>背景颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Background color:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015255Z" creationid="LiarOnce" creationdate="20181118T015243Z">
+        <seg>背景色：</seg>
       </tuv>
     </tu>
     <tu>
@@ -772,6 +836,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045037Z" creationid="LiarOnce" creationdate="20181112T045037Z">
         <seg>亮度:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015234Z" creationid="LiarOnce" creationdate="20181118T015234Z">
+        <seg>浏览</seg>
       </tuv>
     </tu>
     <tu>
@@ -1320,6 +1392,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Decorate window borders</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015327Z" creationid="LiarOnce" creationdate="20181118T015327Z">
+        <seg>装饰窗口边框</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Default</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T051638Z" creationid="deciia" creationdate="20170104T051638Z">
@@ -1476,6 +1556,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010551Z" creationid="LiarOnce" creationdate="20181118T010551Z">
         <seg>你想更换它吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dock event panel</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015207Z" creationid="LiarOnce" creationdate="20181118T015207Z">
+        <seg>Dock 事件面板</seg>
       </tuv>
     </tu>
     <tu>
@@ -2122,6 +2210,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For all {0}:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015058Z" creationid="LiarOnce" creationdate="20181118T015058Z">
+        <seg>对于所有 {0}:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For other object:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015103Z" creationid="LiarOnce" creationdate="20181118T015103Z">
+        <seg>对于其他物体:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For some reason, the file closing failsafe has failed</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005816Z" creationid="LiarOnce" creationdate="20181118T005816Z">
@@ -2142,6 +2246,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050706Z" creationid="LiarOnce" creationdate="20181112T050706Z">
         <seg>前景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Foreground color:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015250Z" creationid="LiarOnce" creationdate="20181118T015245Z">
+        <seg>前景色：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2450,6 +2562,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hardware Acceleration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015317Z" creationid="LiarOnce" creationdate="20181118T015317Z">
+        <seg>硬件加速</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Height</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T131613Z" creationid="deciia" creationdate="20170103T131613Z">
@@ -2522,6 +2642,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Host Default</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015136Z" creationid="LiarOnce" creationdate="20181118T015136Z">
+        <seg>主机默认</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hue:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181013T124329Z" creationid="LiarOnce" creationdate="20181013T124329Z">
@@ -2590,6 +2718,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143102Z" creationid="LiarOnce" creationdate="20181007T143102Z">
         <seg>加载图片</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Image Preview</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015241Z" creationid="LiarOnce" creationdate="20181118T015241Z">
+        <seg>图片预览</seg>
       </tuv>
     </tu>
     <tu>
@@ -2685,6 +2821,14 @@
         <seg>Include Files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T143246Z" creationid="LiarOnce" creationdate="20181007T143246Z">
+        <seg>内含文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Included File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015127Z" creationid="LiarOnce" creationdate="20181118T015127Z">
         <seg>内含文件</seg>
       </tuv>
     </tu>
@@ -3122,6 +3266,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Locale:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015150Z" creationid="LiarOnce" creationdate="20181118T015150Z">
+        <seg>本地化:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Locked</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181103T045037Z" creationid="LiarOnce" creationdate="20181103T045037Z">
@@ -3190,6 +3342,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170224T004051Z" creationid="deciia" creationdate="20170224T004051Z">
         <seg>遮罩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Match Count</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015303Z" creationid="LiarOnce" creationdate="20181118T015303Z">
+        <seg>匹配计数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Media Types</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015329Z" creationid="LiarOnce" creationdate="20181118T015329Z">
+        <seg>媒体类型</seg>
       </tuv>
     </tu>
     <tu>
@@ -3390,6 +3558,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T142001Z" creationid="LiarOnce" creationdate="20181007T142001Z">
         <seg>下一个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Extension Packages are currently installed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015132Z" creationid="LiarOnce" creationdate="20181118T015132Z">
+        <seg>目前没有安装扩展包。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3986,6 +4162,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Recent changes to "{0}" have not been saved.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015117Z" creationid="LiarOnce" creationdate="20181118T015117Z">
+        <seg>最近对 "{0}" 的更改尚未保存。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rectangle</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170224T003130Z" creationid="deciia" creationdate="20170224T003130Z">
@@ -4098,6 +4282,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reset Defaults</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015233Z" creationid="LiarOnce" creationdate="20181118T015233Z">
+        <seg>重置默认值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Resize</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170317T134604Z" creationid="deciia" creationdate="20161223T064916Z">
@@ -4110,6 +4302,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050051Z" creationid="LiarOnce" creationdate="20181112T050051Z">
         <seg>分辨率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Resource file formats and prefixes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T020118Z" creationid="LiarOnce" creationdate="20181118T020118Z">
+        <seg>资源文件格式和前缀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4146,6 +4346,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Result Matches</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015312Z" creationid="LiarOnce" creationdate="20181118T015307Z">
+        <seg>结果匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reticulating Splines</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013518Z" creationid="LiarOnce" creationdate="20181118T013518Z">
@@ -4174,6 +4382,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T045026Z" creationid="LiarOnce" creationdate="20181008T045026Z">
         <seg>右</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Right orientation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015221Z" creationid="LiarOnce" creationdate="20181118T015221Z">
+        <seg>右方向</seg>
       </tuv>
     </tu>
     <tu>
@@ -4398,6 +4614,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T103708Z" creationid="deciia" creationdate="20170103T103708Z">
         <seg>搜索结果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Search Results Highlighting</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015258Z" creationid="LiarOnce" creationdate="20181118T015258Z">
+        <seg>搜索结果突出显示</seg>
       </tuv>
     </tu>
     <tu>
@@ -4956,6 +5180,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Trigger {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T014656Z" creationid="LiarOnce" creationdate="20181118T014656Z">
+        <seg>触发器 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Triggers</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T033926Z" creationid="LiarOnce" creationdate="20181111T033926Z">
@@ -5048,6 +5280,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010733Z" creationid="LiarOnce" creationdate="20181118T010733Z">
         <seg>未保存的更改将丢失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsupported &lt;{0}&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T014659Z" creationid="LiarOnce" creationdate="20181118T014659Z">
+        <seg>不支持的 &lt;{0}&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5358,6 +5598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Would you like to save the changes?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015120Z" creationid="LiarOnce" creationdate="20181118T015120Z">
+        <seg>是否要保存所做的更改？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wrap</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T074642Z" creationid="deciia" creationdate="20180922T074642Z">
@@ -5542,6 +5790,14 @@ The quick brown fox jumps over the lazy dog.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>not</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015055Z" creationid="LiarOnce" creationdate="20181118T015055Z">
+        <seg>非</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>object:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052908Z" creationid="LiarOnce" creationdate="20181030T052908Z">
@@ -5552,8 +5808,24 @@ The quick brown fox jumps over the lazy dog.</seg>
       <tuv lang="EN-US">
         <seg>press &lt;{0}&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T014020Z" creationid="LiarOnce" creationdate="20181118T014020Z">
-        <seg>单击 {0}</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T014652Z" creationid="LiarOnce" creationdate="20181118T014020Z">
+        <seg>按下 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>relative</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T014710Z" creationid="LiarOnce" creationdate="20181118T014710Z">
+        <seg>相对</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>release &lt;{0}&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T014648Z" creationid="LiarOnce" creationdate="20181118T014648Z">
+        <seg>释放 &lt;{0}&gt;</seg>
       </tuv>
     </tu>
     <tu>
