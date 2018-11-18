@@ -134,6 +134,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;h1 style="white-space: nowrap"&gt;Copyright &amp;copy; 2006-2017&lt;/h1&gt;&lt;p style="white-space: nowrap"&gt;Version: {0}&lt;br&gt;&lt;br&gt;IsmAvatar &amp;lt;&lt;a href="mailto:IsmAvatar@gmail.com"&gt;IsmAvatar@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Clam &amp;lt;&lt;a href="mailto:clamisgood@gmail.com"&gt;clamisgood@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Quadduc &amp;lt;&lt;a href="mailto:quadduc@gmail.com"&gt;quadduc@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;TGMG &amp;lt;&lt;a href="mailto:thegamemakerguru@gmail.com"&gt;thegamemakerguru@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Robert B. Colton &amp;lt;&lt;a href="mailto:robertbcolton@gmail.com"&gt;robertbcolton@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Egofree &amp;lt;&lt;a href="mailto:egofree71@gmail.com"&gt;egofree71@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Testing: CheeseBoy&lt;br&gt;&lt;br&gt;Special thanks to everyone else who has contributed!&lt;/p&gt;&lt;p&gt;LateralGM comes with ABSOLUTELY NO WARRANTY.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005556Z" creationid="LiarOnce" creationdate="20181118T005556Z">
+        <seg>&lt;h1 style="white-space: nowrap"&gt;Copyright &amp;copy; 2006-2017&lt;/h1&gt;&lt;p style="white-space: nowrap"&gt;Version: {0}&lt;br&gt;&lt;br&gt;IsmAvatar &amp;lt;&lt;a href="mailto:IsmAvatar@gmail.com"&gt;IsmAvatar@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Clam &amp;lt;&lt;a href="mailto:clamisgood@gmail.com"&gt;clamisgood@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Quadduc &amp;lt;&lt;a href="mailto:quadduc@gmail.com"&gt;quadduc@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;TGMG &amp;lt;&lt;a href="mailto:thegamemakerguru@gmail.com"&gt;thegamemakerguru@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Robert B. Colton &amp;lt;&lt;a href="mailto:robertbcolton@gmail.com"&gt;robertbcolton@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Egofree &amp;lt;&lt;a href="mailto:egofree71@gmail.com"&gt;egofree71@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Testing: CheeseBoy&lt;br&gt;&lt;br&gt;Special thanks to everyone else who has contributed!&lt;/p&gt;&lt;p&gt;LateralGM comes with ABSOLUTELY NO WARRANTY.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;"{0}"&lt;br/&gt;&lt;p&gt;The URI specified in preferences appears to be malformed.&lt;br/&gt; Verify that you have entered a valid URI and try again.&lt;/p&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005516Z" creationid="LiarOnce" creationdate="20181118T005516Z">
+        <seg>&lt;html&gt; “{0}” &lt;br/&gt;&lt;p&gt;首选项中指定的 URI 似乎格式不正确。 &lt;br/&gt;请确认您输入了有效 URI，然后重试。 &lt;/p&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;html&gt;"{0}"&lt;br/&gt;&lt;p&gt;The URI specified in preferences appears to be unavailable.&lt;br/&gt; Verify that you have entered a valid URI or try again later.&lt;/p&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005540Z" creationid="LiarOnce" creationdate="20181118T005540Z">
+        <seg>&lt;html&gt; “{0}” &lt;br/&gt;&lt;p&gt;首选项中指定的 URI 似乎不可用。 &lt;br/&gt;请确认您输入了有效的 URI 或稍后重试。 &lt;/p&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;no background&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170114T035027Z" creationid="deciia" creationdate="20161223T063130Z">
@@ -154,6 +178,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050437Z" creationid="LiarOnce" creationdate="20181112T050437Z">
         <seg>&lt;无房间&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;p&gt;This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.&lt;/p&gt; &lt;p&gt;This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005706Z" creationid="LiarOnce" creationdate="20181118T005706Z">
+        <seg>&lt;p&gt;This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.&lt;/p&gt; &lt;p&gt;This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,6 +274,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045000Z" creationid="LiarOnce" creationdate="20181112T045000Z">
         <seg>后</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After Game Information</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010007Z" creationid="LiarOnce" creationdate="20181118T010007Z">
+        <seg>游戏信息之后</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005942Z" creationid="LiarOnce" creationdate="20181118T005942Z">
+        <seg>在 {0} 之后</seg>
       </tuv>
     </tu>
     <tu>
@@ -466,6 +514,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044957Z" creationid="LiarOnce" creationdate="20181112T044957Z">
         <seg>前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005830Z" creationid="LiarOnce" creationdate="20181118T005830Z">
+        <seg>在 {0} 之前</seg>
       </tuv>
     </tu>
     <tu>
@@ -1598,6 +1654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For some reason, the file closing failsafe has failed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005816Z" creationid="LiarOnce" creationdate="20181118T005816Z">
+        <seg>由于某种原因，文件关闭故障保护失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Foreground</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050706Z" creationid="LiarOnce" creationdate="20181112T050706Z">
@@ -1934,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If not, see &lt;a href="http://www.gnu.org/licenses/"&gt;http://www.gnu.org/licenses/&lt;/a&gt;.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005711Z" creationid="LiarOnce" creationdate="20181118T005711Z">
+        <seg>If not, see &lt;a href="http://www.gnu.org/licenses/"&gt;http://www.gnu.org/licenses/&lt;/a&gt;.&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Image Effects</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044951Z" creationid="LiarOnce" creationdate="20181112T044951Z">
@@ -1950,10 +2022,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Image size mismatch: {0} != {1} at filepos: {2}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005953Z" creationid="LiarOnce" creationdate="20181118T005953Z">
+        <seg>图片大小不匹配：{0}！= {1}在 filepos：{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Import</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20161223T064811Z" creationid="deciia" creationdate="20161223T064811Z">
         <seg>导入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In {0}, ID {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005837Z" creationid="LiarOnce" creationdate="20181118T005837Z">
+        <seg>在 {0} 中，ID 为 {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2282,6 +2370,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T091525Z" creationid="LiarOnce" creationdate="20181028T091525Z">
         <seg>Mac OS X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Malformed URI</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005252Z" creationid="LiarOnce" creationdate="20181118T005252Z">
+        <seg>格式错误的 URI</seg>
       </tuv>
     </tu>
     <tu>
@@ -3350,6 +3446,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>See &lt;em&gt;License&lt;/em&gt; for details.&lt;/p&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005623Z" creationid="LiarOnce" creationdate="20181118T005623Z">
+        <seg>请参阅&lt;em&gt;许可证&lt;/em&gt;了解详情&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the GNU General Public License for more details.&lt;/p&gt; &lt;p&gt;You should have received a copy of the GNU General Public License along with this program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005708Z" creationid="LiarOnce" creationdate="20181118T005708Z">
+        <seg>See the GNU General Public License for more details.&lt;/p&gt; &lt;p&gt;You should have received a copy of the GNU General Public License along with this program.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select All</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051403Z" creationid="LiarOnce" creationdate="20181008T051403Z">
@@ -3712,6 +3824,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is free software, and you are welcome to redistribute it under certain conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005606Z" creationid="LiarOnce" creationdate="20181118T005606Z">
+        <seg>This is free software, and you are welcome to redistribute it under certain conditions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tile</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170103T075417Z" creationid="deciia" creationdate="20170103T075417Z">
@@ -3844,6 +3964,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050442Z" creationid="LiarOnce" creationdate="20181112T050442Z">
         <seg>类型：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unavailable URI</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005521Z" creationid="LiarOnce" creationdate="20181118T005521Z">
+        <seg>不可用的 URI</seg>
       </tuv>
     </tu>
     <tu>
@@ -4234,6 +4362,14 @@ The quick brown fox jumps over the lazy dog.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>default icon not found, any saved files will have no icon unless one is assigned manually.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005720Z" creationid="LiarOnce" creationdate="20181118T005720Z">
+        <seg>未找到默认图标，除非手动分配，否则任何已保存的文件都将没有图标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>iOS</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090602Z" creationid="LiarOnce" creationdate="20181028T090602Z">
@@ -4246,6 +4382,14 @@ The quick brown fox jumps over the lazy dog.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044703Z" creationid="LiarOnce" creationdate="20181030T044703Z">
         <seg>id:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>invalid boolean data: {0} at filepos: {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010001Z" creationid="LiarOnce" creationdate="20181118T010001Z">
+        <seg>无效的布尔数据：{0}在 filepos：{1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4270,6 +4414,22 @@ The quick brown fox jumps over the lazy dog.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050427Z" creationid="LiarOnce" creationdate="20181112T050427Z">
         <seg>sp:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>time taken to load file: {0} ms</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005737Z" creationid="LiarOnce" creationdate="20181118T005725Z">
+        <seg>加载文件所需的时间：{0} 毫秒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>time taken to save file: {0} ms</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005740Z" creationid="LiarOnce" creationdate="20181118T005734Z">
+        <seg>保存文件所需的时间：{0} 毫秒</seg>
       </tuv>
     </tu>
     <tu>
@@ -4302,6 +4462,22 @@ The quick brown fox jumps over the lazy dog.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045729Z" creationid="LiarOnce" creationdate="20181112T045729Z">
         <seg>{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} - GM version unsupported or file corrupt: {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005824Z" creationid="LiarOnce" creationdate="20181118T005824Z">
+        <seg>{0}  -  GM 版本不受支持或文件损坏：{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} is not a valid GM file, initial identifier is invalid: {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005812Z" creationid="LiarOnce" creationdate="20181118T005812Z">
+        <seg>{0} 不是有效的 GM 文件，初始标识符无效：{1}</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
