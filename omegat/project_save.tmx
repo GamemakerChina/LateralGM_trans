@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;{0}&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013834Z" creationid="LiarOnce" creationdate="20181118T013834Z">
+        <seg>&lt;{0}&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ASCII</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090842Z" creationid="LiarOnce" creationdate="20181028T090842Z">
@@ -374,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alarm Event For {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013815Z" creationid="LiarOnce" creationdate="20181118T013815Z">
+        <seg>{0} 的计时器事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alarm {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170114T032851Z" creationid="36011" creationdate="20170114T032851Z">
@@ -402,6 +418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050357Z" creationid="LiarOnce" creationdate="20181009T045915Z">
         <seg>右对齐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All SPI Supported Images</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013546Z" creationid="LiarOnce" creationdate="20181118T013546Z">
+        <seg>所有 SPI 支持的图像</seg>
       </tuv>
     </tu>
     <tu>
@@ -454,11 +478,20 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An error occurred while checking for unsaved changes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013404Z" creationid="LiarOnce" creationdate="20181118T013404Z">
+        <seg>检查未保存的更改时发生错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An error occurred while saving to {0}:
 {1} - {2}</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010559Z" creationid="LiarOnce" creationdate="20181118T010559Z">
-        <seg>保存到 {0} 时出错: {1}-{2}</seg>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013745Z" creationid="LiarOnce" creationdate="20181118T010559Z">
+        <seg>保存到 {0} 时出错: 
+{1} - {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -503,6 +536,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any Key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013841Z" creationid="LiarOnce" creationdate="20181118T013837Z">
+        <seg>任何键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Applies to</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181006T140249Z" creationid="LiarOnce" creationdate="20181006T140249Z">
@@ -531,6 +572,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044817Z" creationid="LiarOnce" creationdate="20181112T044817Z">
         <seg>排列图标		I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Articulating Simlish</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013417Z" creationid="LiarOnce" creationdate="20181118T013417Z">
+        <seg>阐明模仿</seg>
       </tuv>
     </tu>
     <tu>
@@ -703,6 +752,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Boundary View {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013953Z" creationid="LiarOnce" creationdate="20181118T013953Z">
+        <seg>边界视野 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bounding Box</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043707Z" creationid="LiarOnce" creationdate="20181014T043707Z">
@@ -719,6 +776,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Building user interface</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013512Z" creationid="LiarOnce" creationdate="20181118T013512Z">
+        <seg>构建用户界面</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calibrating Sensors</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013410Z" creationid="LiarOnce" creationdate="20181118T013410Z">
+        <seg>校准传感器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Can''t seek to {0} from {1}, position already passed (required skip: {2})</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010148Z" creationid="LiarOnce" creationdate="20181118T010148Z">
@@ -731,6 +804,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044644Z" creationid="LiarOnce" creationdate="20181008T044644Z">
         <seg>取消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot Verify Saved Changes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013408Z" creationid="LiarOnce" creationdate="20181118T013408Z">
+        <seg>无法验证已保存的更改</seg>
       </tuv>
     </tu>
     <tu>
@@ -755,6 +836,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181007T141121Z" creationid="LiarOnce" creationdate="20181007T141121Z">
         <seg>区分大小写</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Caused by: {0}: {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013533Z" creationid="LiarOnce" creationdate="20181118T013533Z">
+        <seg>由: {0}: {1} 引发</seg>
       </tuv>
     </tu>
     <tu>
@@ -947,6 +1036,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181111T022249Z" creationid="LiarOnce" creationdate="20181111T022249Z">
         <seg>碰撞检查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collision Event with {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013828Z" creationid="LiarOnce" creationdate="20181118T013828Z">
+        <seg>与 {0} 的冲突事件</seg>
       </tuv>
     </tu>
     <tu>
@@ -1147,6 +1244,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013309Z" creationid="LiarOnce" creationdate="20181118T013309Z">
         <seg>创建资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating Components</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013456Z" creationid="LiarOnce" creationdate="20181118T013456Z">
+        <seg>创建组件</seg>
       </tuv>
     </tu>
     <tu>
@@ -1591,6 +1696,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>End of Path</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013937Z" creationid="LiarOnce" creationdate="20181118T013937Z">
+        <seg>路径结束</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Enter Size of New Image</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050515Z" creationid="LiarOnce" creationdate="20181112T050515Z">
@@ -1635,6 +1748,32 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010552Z" creationid="LiarOnce" creationdate="20181118T010552Z">
         <seg>保存文件时出错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error loading {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013557Z" creationid="LiarOnce" creationdate="20181118T013557Z">
+        <seg>加载 {0} 时出错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error opening File {0}: The file was not found</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013648Z" creationid="LiarOnce" creationdate="20181118T013648Z">
+        <seg>打开文件 {0} 时出错：找不到该文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Error reading file {0}: 
+{1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013755Z" creationid="LiarOnce" creationdate="20181118T013755Z">
+        <seg>读取文件{0}时出错：
+{1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1783,6 +1922,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failed to load plugin: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013538Z" creationid="LiarOnce" creationdate="20181118T013538Z">
+        <seg>加载插件失败: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T083714Z" creationid="deciia" creationdate="20170102T083714Z">
@@ -1811,6 +1958,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010620Z" creationid="LiarOnce" creationdate="20181118T010620Z">
         <seg>文件已存在！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>File closing failsafe has failed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013630Z" creationid="LiarOnce" creationdate="20181118T013630Z">
+        <seg>文件关闭故障保护失败</seg>
       </tuv>
     </tu>
     <tu>
@@ -2099,6 +2254,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010708Z" creationid="LiarOnce" creationdate="20181118T010708Z">
         <seg>GMX Saving</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GUI</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013957Z" creationid="LiarOnce" creationdate="20181118T013957Z">
+        <seg>GUI</seg>
       </tuv>
     </tu>
     <tu>
@@ -2559,6 +2722,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Initiating Menu</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013511Z" creationid="LiarOnce" creationdate="20181118T013511Z">
+        <seg>启动菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Insert</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180923T093856Z" creationid="deciia" creationdate="20170103T104429Z">
@@ -2623,6 +2794,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interpreting Language Packs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013422Z" creationid="LiarOnce" creationdate="20181118T013422Z">
+        <seg>解释语言包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Intersect Boundary</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T231629Z" creationid="deciia" creationdate="20170102T062513Z">
@@ -2655,6 +2834,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It appears that changes to the project have not been saved.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013354Z" creationid="LiarOnce" creationdate="20181118T013354Z">
+        <seg>似乎尚未保存对项目的更改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Italic</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T071516Z" creationid="deciia" creationdate="20170102T071516Z">
@@ -2679,10 +2866,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Joystick {0} {1,choice,0#Left|1#Right|2#Up|3#Down|4#Button {2}}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013852Z" creationid="LiarOnce" creationdate="20181118T013852Z">
+        <seg>Joystick {0} {1,choice,0#Left|1#Right|2#Up|3#Down|4#Button {2}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keep aspect ratio</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T095526Z" creationid="deciia" creationdate="20170102T095526Z">
         <seg>保持长宽比</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key Press</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T014002Z" creationid="LiarOnce" creationdate="20181118T014002Z">
+        <seg>按下键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key Pressed Event For {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T014016Z" creationid="LiarOnce" creationdate="20181118T014016Z">
+        <seg>{0} 的按下键事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key Release</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T014641Z" creationid="LiarOnce" creationdate="20181118T014029Z">
+        <seg>释放键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Key Release Event For {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T014046Z" creationid="LiarOnce" creationdate="20181118T014046Z">
+        <seg>{0} 的释放键事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keyboard</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013830Z" creationid="LiarOnce" creationdate="20181118T013830Z">
+        <seg>键盘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keyboard Event For {0} Key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013832Z" creationid="LiarOnce" creationdate="20181118T013832Z">
+        <seg>{0} 键的键盘事件</seg>
       </tuv>
     </tu>
     <tu>
@@ -2747,6 +2990,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013318Z" creationid="LiarOnce" creationdate="20181118T013318Z">
         <seg>LateralGM: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Launching into Hyperspace</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013501Z" creationid="LiarOnce" creationdate="20181118T013501Z">
+        <seg>启动进入 Hyperspace</seg>
       </tuv>
     </tu>
     <tu>
@@ -2835,6 +3086,38 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181110T025100Z" creationid="LiarOnce" creationdate="20181110T025100Z">
         <seg>载入中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading Command Line Project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013522Z" creationid="LiarOnce" creationdate="20181118T013522Z">
+        <seg>加载命令行项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading Plugins</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013520Z" creationid="LiarOnce" creationdate="20181118T013520Z">
+        <seg>加载插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading lib file {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013616Z" creationid="LiarOnce" creationdate="20181118T013616Z">
+        <seg>正在加载 lib 文件 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loading lib files in {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013620Z" creationid="LiarOnce" creationdate="20181118T013620Z">
+        <seg>在 {0} 中加载 lib 文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -2991,6 +3274,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mouse Event for {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013846Z" creationid="LiarOnce" creationdate="20181118T013846Z">
+        <seg>{0} 的鼠标事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Mouse Leave</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170114T033331Z" creationid="deciia" creationdate="20170102T045750Z">
@@ -3111,6 +3402,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No image to save, try again after creating an image.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013601Z" creationid="LiarOnce" creationdate="20181118T013601Z">
+        <seg>没有要保存的图像，请在创建图像后再试一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No plugin entry point ({0})</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013536Z" creationid="LiarOnce" creationdate="20181118T013536Z">
+        <seg>没有插件入口点 ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>None</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T044740Z" creationid="LiarOnce" creationdate="20181008T044740Z">
@@ -3123,6 +3430,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170313T144026Z" creationid="deciia" creationdate="20170102T073115Z">
         <seg>正常</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normal Step</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013825Z" creationid="LiarOnce" creationdate="20181118T013825Z">
+        <seg>步正常</seg>
       </tuv>
     </tu>
     <tu>
@@ -3311,10 +3626,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other Event: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013855Z" creationid="LiarOnce" creationdate="20181118T013855Z">
+        <seg>其他事件：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Others</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T045203Z" creationid="deciia" creationdate="20170102T045203Z">
         <seg>其它</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Out of Health</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013934Z" creationid="LiarOnce" creationdate="20181118T013934Z">
+        <seg>超出健康值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Out of Lives</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013923Z" creationid="LiarOnce" creationdate="20181118T013923Z">
+        <seg>超出生命值</seg>
       </tuv>
     </tu>
     <tu>
@@ -3347,6 +3686,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090327Z" creationid="LiarOnce" creationdate="20181028T090327Z">
         <seg>P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Package Resources</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013603Z" creationid="LiarOnce" creationdate="20181118T013603Z">
+        <seg>包资源</seg>
       </tuv>
     </tu>
     <tu>
@@ -3427,6 +3774,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050312Z" creationid="LiarOnce" creationdate="20181112T050312Z">
         <seg>播放声音</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Plugins and default User Libraries directory will be unavailable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013527Z" creationid="LiarOnce" creationdate="20181118T013527Z">
+        <seg>插件和默认用户库目录将不可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Populating Tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013519Z" creationid="LiarOnce" creationdate="20181118T013519Z">
+        <seg>填充树</seg>
       </tuv>
     </tu>
     <tu>
@@ -3687,6 +4050,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Rendering Mouse Cursor Display</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013425Z" creationid="LiarOnce" creationdate="20181118T013425Z">
+        <seg>渲染鼠标光标显示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Repetitions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045109Z" creationid="LiarOnce" creationdate="20181112T045109Z">
@@ -3771,6 +4142,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044322Z" creationid="LiarOnce" creationdate="20181014T044322Z">
         <seg>恢复系数:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reticulating Splines</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013518Z" creationid="LiarOnce" creationdate="20181118T013518Z">
+        <seg>网状样条线</seg>
       </tuv>
     </tu>
     <tu>
@@ -3923,6 +4302,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045654Z" creationid="LiarOnce" creationdate="20181112T045654Z">
         <seg>另存为...			A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Save Cancelled</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013559Z" creationid="LiarOnce" creationdate="20181118T013559Z">
+        <seg>保存已取消</seg>
       </tuv>
     </tu>
     <tu>
@@ -4585,6 +4972,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unable to determine the Working Directory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013523Z" creationid="LiarOnce" creationdate="20181118T013523Z">
+        <seg>无法确定工作目录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unavailable URI</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005521Z" creationid="LiarOnce" creationdate="20181118T005521Z">
@@ -4641,10 +5036,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unsaved Changes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013401Z" creationid="LiarOnce" creationdate="20181118T013401Z">
+        <seg>未保存的更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unsaved changes will be lost.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010733Z" creationid="LiarOnce" creationdate="20181118T010733Z">
         <seg>未保存的更改将丢失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsupported Library file, or corrupt/invalid file: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013625Z" creationid="LiarOnce" creationdate="20181118T013625Z">
+        <seg>不受支持的库文件或损坏/无效的文件：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unsupported action definition, or corrupt/invalid in action {0}, Library: {1} - as read, version = {2}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013643Z" creationid="LiarOnce" creationdate="20181118T013643Z">
+        <seg>不支持的操作定义, 或操作 {0} 中的异常无效, 库: {1} - 已读, 版本 = {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4677,6 +5096,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050740Z" creationid="LiarOnce" creationdate="20181112T050740Z">
         <seg>用户定义</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>User Defined {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013943Z" creationid="LiarOnce" creationdate="20181118T013943Z">
+        <seg>用户定义 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4907,10 +5334,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Would you like to attempt saving the project before closing?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013406Z" creationid="LiarOnce" creationdate="20181118T013406Z">
+        <seg>是否要尝试在关闭之前保存项目？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Would you like to overwrite the file anyway?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010622Z" creationid="LiarOnce" creationdate="20181118T010622Z">
         <seg>是否仍要覆盖该文件？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Would you like to save before closing?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013359Z" creationid="LiarOnce" creationdate="20181118T013359Z">
+        <seg>是否要在关闭前保存？</seg>
       </tuv>
     </tu>
     <tu>
@@ -5059,6 +5502,14 @@ The quick brown fox jumps over the lazy dog.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>error getting image data for subimage {0} sprite {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013610Z" creationid="LiarOnce" creationdate="20181118T013610Z">
+        <seg>获取子图像 {0} 精灵 {1} 的图像数据时出错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>iOS</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181028T090602Z" creationid="LiarOnce" creationdate="20181028T090602Z">
@@ -5095,6 +5546,14 @@ The quick brown fox jumps over the lazy dog.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T052908Z" creationid="LiarOnce" creationdate="20181030T052908Z">
         <seg>对象:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>press &lt;{0}&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T014020Z" creationid="LiarOnce" creationdate="20181118T014020Z">
+        <seg>单击 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5179,6 +5638,22 @@ The quick brown fox jumps over the lazy dog.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{0} Event</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013802Z" creationid="LiarOnce" creationdate="20181118T013802Z">
+        <seg>{0} 事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} Events</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013800Z" creationid="LiarOnce" creationdate="20181118T013800Z">
+        <seg>{0} 事件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{0} already exists.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010548Z" creationid="LiarOnce" creationdate="20181118T010548Z">
@@ -5187,10 +5662,26 @@ The quick brown fox jumps over the lazy dog.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{0} files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013554Z" creationid="LiarOnce" creationdate="20181118T013552Z">
+        <seg>{0} 个文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{0} is not a valid GM file, initial identifier is invalid: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005812Z" creationid="LiarOnce" creationdate="20181118T005812Z">
         <seg>{0} 不是有效的 GM 文件，初始标识符无效：{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{2,choice,0#|1#Global }{0,choice,-1#No|0#Left|1#Right|2#Middle} {1,choice,0#Button|1#Pressed|2#Released}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013848Z" creationid="LiarOnce" creationdate="20181118T013848Z">
+        <seg>{2,choice,0#|1#Global }{0,choice,-1#No|0#Left|1#Right|2#Middle} {1,choice,0#Button|1#Pressed|2#Released}</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
