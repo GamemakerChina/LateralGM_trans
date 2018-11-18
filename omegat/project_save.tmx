@@ -3386,6 +3386,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Let &lt;F4&gt; switch between screen modes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T023606Z" creationid="LiarOnce" creationdate="20181118T023606Z">
+        <seg>让 &lt;F4&gt; 在屏幕模式之间切换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let &lt;F5&gt; save the game and &lt;F6&gt; load the game</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T024549Z" creationid="LiarOnce" creationdate="20181118T024549Z">
+        <seg>让 &lt;F5&gt; 保存游戏存档和 &lt;F6&gt; 加载游戏存档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Let the game window always stay on top</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T021830Z" creationid="LiarOnce" creationdate="20181118T021830Z">
