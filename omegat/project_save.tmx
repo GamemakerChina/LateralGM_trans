@@ -728,6 +728,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Background editor:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T020635Z" creationid="LiarOnce" creationdate="20181118T020627Z">
+        <seg>背景编辑器：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Backgrounds</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051417Z" creationid="LiarOnce" creationdate="20181008T051417Z">
@@ -1088,6 +1096,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Code editor:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T020640Z" creationid="LiarOnce" creationdate="20181118T020640Z">
+        <seg>代码编辑器：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Collapse			C</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045825Z" creationid="LiarOnce" creationdate="20181112T045825Z">
@@ -1220,6 +1236,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T041823Z" creationid="LiarOnce" creationdate="20181014T041823Z">
         <seg>配置:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configure Graphics settings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T020651Z" creationid="LiarOnce" creationdate="20181118T020651Z">
+        <seg>配置图形设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -2074,6 +2098,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>File Extensions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T020648Z" creationid="LiarOnce" creationdate="20181118T020648Z">
+        <seg>文件扩展名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>File Tree</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010731Z" creationid="LiarOnce" creationdate="20181118T010731Z">
@@ -2182,6 +2214,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20180922T203650Z" creationid="deciia" creationdate="20180922T203650Z">
         <seg>已完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fixed scale (in %)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T021817Z" creationid="LiarOnce" creationdate="20181118T021817Z">
+        <seg>固定比例（％）</seg>
       </tuv>
     </tu>
     <tu>
@@ -4130,6 +4170,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prefixes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T020643Z" creationid="LiarOnce" creationdate="20181118T020643Z">
+        <seg>前缀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Preload</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050406Z" creationid="LiarOnce" creationdate="20181112T050406Z">
@@ -5028,6 +5076,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sound editor:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T020637Z" creationid="LiarOnce" creationdate="20181118T020637Z">
+        <seg>声音编辑器：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sound files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050408Z" creationid="LiarOnce" creationdate="20181112T050408Z">
@@ -5504,6 +5560,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010540Z" creationid="LiarOnce" creationdate="20181118T010540Z">
         <seg>还是用吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use custom</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T020641Z" creationid="LiarOnce" creationdate="20181118T020641Z">
+        <seg>使用自定义</seg>
       </tuv>
     </tu>
     <tu>
@@ -6146,6 +6210,14 @@ The quick brown fox jumps over the lazy dog.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005812Z" creationid="LiarOnce" creationdate="20181118T005812Z">
         <seg>{0} 不是有效的 GM 文件，初始标识符无效：{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0}:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T020644Z" creationid="LiarOnce" creationdate="20181118T020644Z">
+        <seg>{0}:</seg>
       </tuv>
     </tu>
     <tu>
