@@ -494,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allow the player to resize the game window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T021827Z" creationid="LiarOnce" creationdate="20181118T021827Z">
+        <seg>允许玩家调整游戏窗口的大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alpha Tolerance:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T043614Z" creationid="LiarOnce" creationdate="20181014T043614Z">
@@ -1160,6 +1168,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Color depth</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T021911Z" creationid="LiarOnce" creationdate="20181118T021911Z">
+        <seg>颜色深度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Color outside the room region:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181015T052734Z" creationid="LiarOnce" creationdate="20181015T052734Z">
@@ -1252,6 +1268,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050119Z" creationid="LiarOnce" creationdate="20181112T050119Z">
         <seg>配置其他设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configure Resolution</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T021907Z" creationid="LiarOnce" creationdate="20181118T021907Z">
+        <seg>配置分辨率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Configure Texture Atlases</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T021901Z" creationid="LiarOnce" creationdate="20181118T021901Z">
+        <seg>配置纹理图集</seg>
       </tuv>
     </tu>
     <tu>
@@ -1584,6 +1616,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Display mouse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T021853Z" creationid="LiarOnce" creationdate="20181118T021853Z">
+        <seg>显示鼠标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do you want to overwrite its contents?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010441Z" creationid="LiarOnce" creationdate="20181118T010441Z">
@@ -1636,6 +1676,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T020210Z" creationid="LiarOnce" creationdate="20181118T020210Z">
         <seg>文档 URI：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don't draw a border in windowed mode</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T021843Z" creationid="LiarOnce" creationdate="20181118T021832Z">
+        <seg>不要在窗口模式下绘制边框</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Don't show the buttons in the window caption</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T021838Z" creationid="LiarOnce" creationdate="20181118T021838Z">
+        <seg>不要在窗口标题中显示按钮</seg>
       </tuv>
     </tu>
     <tu>
@@ -2330,6 +2386,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Force software vertex processing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T021850Z" creationid="LiarOnce" creationdate="20181118T021824Z">
+        <seg>强制软件顶点处理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Foreground</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050706Z" creationid="LiarOnce" creationdate="20181112T050706Z">
@@ -2366,6 +2430,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045112Z" creationid="LiarOnce" creationdate="20181112T045112Z">
         <seg>片段代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Freeze the game when the game loses focus</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T021856Z" creationid="LiarOnce" creationdate="20181118T021856Z">
+        <seg>当游戏失去焦点时冻结游戏</seg>
       </tuv>
     </tu>
     <tu>
@@ -3050,6 +3122,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Interpolate colors between pixels</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T021822Z" creationid="LiarOnce" creationdate="20181118T021822Z">
+        <seg>像素之间的插值颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Interpreting Language Packs</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013422Z" creationid="LiarOnce" creationdate="20181118T013422Z">
@@ -3286,6 +3366,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T045018Z" creationid="LiarOnce" creationdate="20181008T045018Z">
         <seg>左</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let &lt;ESC&gt; end the game</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T021920Z" creationid="LiarOnce" creationdate="20181118T021920Z">
+        <seg>让 &lt;ESC&gt; 结束游戏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let &lt;F1&gt; show the game information</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T023559Z" creationid="LiarOnce" creationdate="20181118T023559Z">
+        <seg>让 &lt;F1&gt; 显示游戏信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let the game window always stay on top</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T021830Z" creationid="LiarOnce" creationdate="20181118T021830Z">
+        <seg>让游戏窗口始终保持在顶部</seg>
       </tuv>
     </tu>
     <tu>
@@ -3702,6 +3806,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170114T033001Z" creationid="deciia" creationdate="20170102T045159Z">
         <seg>无键位</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No change</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T021917Z" creationid="LiarOnce" creationdate="20181118T021917Z">
+        <seg>无变化</seg>
       </tuv>
     </tu>
     <tu>
@@ -4890,6 +5002,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Set the resolution of the screen</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T021909Z" creationid="LiarOnce" creationdate="20181118T021909Z">
+        <seg>设置屏幕的分辨率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Settings</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170314T163946Z" creationid="deciia" creationdate="20170314T163946Z">
@@ -5260,6 +5380,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Texture Atlases</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T021858Z" creationid="LiarOnce" creationdate="20181118T021858Z">
+        <seg>纹理图集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Theme class:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T020205Z" creationid="LiarOnce" creationdate="20181118T020205Z">
@@ -5384,6 +5512,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T045035Z" creationid="LiarOnce" creationdate="20181112T045035Z">
         <seg>透明度:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Treat close button as &lt;ESC&gt; key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T021925Z" creationid="LiarOnce" creationdate="20181118T021925Z">
+        <seg>将关闭按钮视为 &lt;ESC&gt; 键</seg>
       </tuv>
     </tu>
     <tu>
