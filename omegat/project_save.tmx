@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;new game&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013319Z" creationid="LiarOnce" creationdate="20181118T013319Z">
+        <seg>&lt;new game&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;no background&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170114T035027Z" creationid="deciia" creationdate="20161223T063130Z">
@@ -394,6 +402,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181009T050357Z" creationid="LiarOnce" creationdate="20181009T045915Z">
         <seg>右对齐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All ids appear to be unique and no duplicates were detected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013250Z" creationid="LiarOnce" creationdate="20181118T013250Z">
+        <seg>所有 ID 似乎都是唯一的，没有检测到重复项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1111,10 +1127,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create Group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013309Z" creationid="LiarOnce" creationdate="20181118T013309Z">
+        <seg>创建组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create New Configuration</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044848Z" creationid="LiarOnce" creationdate="20181112T044848Z">
         <seg>创建新配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Resource</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013309Z" creationid="LiarOnce" creationdate="20181118T013309Z">
+        <seg>创建资源</seg>
       </tuv>
     </tu>
     <tu>
@@ -1195,6 +1227,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050123Z" creationid="LiarOnce" creationdate="20181112T050123Z">
         <seg>默认键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Defragging ids cannot be undone, do you want to defrag them?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013239Z" creationid="LiarOnce" creationdate="20181118T013239Z">
+        <seg>碎片整理 ID 无法撤消，你想要对它们进行碎片整理吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -1399,6 +1439,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Duplicate Ids Detected</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013244Z" creationid="LiarOnce" creationdate="20181118T013244Z">
+        <seg>检测到重复的 ID</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Duplicate Name Detected</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010815Z" creationid="LiarOnce" creationdate="20181118T010815Z">
@@ -1407,10 +1455,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Duplicate Resource</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013316Z" creationid="LiarOnce" creationdate="20181118T013316Z">
+        <seg>资源重复</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Duplicate Selected Configuration</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044850Z" creationid="LiarOnce" creationdate="20181112T044850Z">
         <seg>复制所选配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Duplicate ids were detected, and they should be defragged.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013231Z" creationid="LiarOnce" creationdate="20181118T013226Z">
+        <seg>检测到重复的 ID，应对它们进行碎片整理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2335,6 +2399,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ids Appear Unique</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013307Z" creationid="LiarOnce" creationdate="20181118T013307Z">
+        <seg>Ids 看起来是唯一的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If not, see &lt;a href="http://www.gnu.org/licenses/"&gt;http://www.gnu.org/licenses/&lt;/a&gt;.&lt;/p&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T005711Z" creationid="LiarOnce" creationdate="20181118T005711Z">
@@ -2503,6 +2575,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insert Group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013311Z" creationid="LiarOnce" creationdate="20181118T013311Z">
+        <seg>插入组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert Resource</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013311Z" creationid="LiarOnce" creationdate="20181118T013311Z">
+        <seg>插入资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Install</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T051938Z" creationid="LiarOnce" creationdate="20181008T051938Z">
@@ -2651,6 +2739,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050007Z" creationid="LiarOnce" creationdate="20181112T050007Z">
         <seg>LCD VRGB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>LateralGM: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T013318Z" creationid="LiarOnce" creationdate="20181118T013318Z">
+        <seg>LateralGM: {0}</seg>
       </tuv>
     </tu>
     <tu>
