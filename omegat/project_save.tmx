@@ -174,6 +174,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;Argument {0}&gt;:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T030019Z" creationid="LiarOnce" creationdate="20181118T030019Z">
+        <seg>&lt;Argument {0}&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;No {0}&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T030031Z" creationid="LiarOnce" creationdate="20181118T030031Z">
+        <seg>&lt;No {0}&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;Not set&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025745Z" creationid="LiarOnce" creationdate="20181118T025745Z">
+        <seg>&lt;Not set&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;Unknown Action&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T014708Z" creationid="LiarOnce" creationdate="20181118T014708Z">
@@ -358,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Action Changed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T030030Z" creationid="LiarOnce" creationdate="20181118T030030Z">
+        <seg>行动改变了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Action library:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T020227Z" creationid="LiarOnce" creationdate="20181118T020227Z">
@@ -458,6 +490,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025108Z" creationid="LiarOnce" creationdate="20181118T025108Z">
         <seg>添加一个时刻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add a new tile layer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025820Z" creationid="LiarOnce" creationdate="20181118T025820Z">
+        <seg>添加新的图块图层</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add multiple (Shift)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025721Z" creationid="LiarOnce" creationdate="20181118T025721Z">
+        <seg>添加多个 (Shift)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add on top (Ctrl)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025709Z" creationid="LiarOnce" creationdate="20181118T025709Z">
+        <seg>添加到顶部 (Ctrl)</seg>
       </tuv>
     </tu>
     <tu>
@@ -640,6 +696,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Android (YYC)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025755Z" creationid="LiarOnce" creationdate="20181118T025755Z">
+        <seg>Android (YYC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Angular Damping:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181014T044329Z" creationid="LiarOnce" creationdate="20181014T044329Z">
@@ -732,6 +796,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025359Z" creationid="LiarOnce" creationdate="20181118T025359Z">
         <seg>您确定要删除所有图块吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are you sure you want to delete all tiles in the current layer ?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025830Z" creationid="LiarOnce" creationdate="20181118T025830Z">
+        <seg>您确定要删除当前图层中的所有图块吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -1040,6 +1112,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Caption for the room:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025638Z" creationid="LiarOnce" creationdate="20181118T025638Z">
+        <seg>房间的描述:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cascade Frames		A</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044757Z" creationid="LiarOnce" creationdate="20181112T044757Z">
@@ -1104,6 +1184,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Change tile layer depth</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025826Z" creationid="LiarOnce" creationdate="20181118T025826Z">
+        <seg>更改图块图层深度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changes have been made to {0}.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T030027Z" creationid="LiarOnce" creationdate="20181118T030027Z">
+        <seg>已对 {0} 进行了更改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Character Range</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050501Z" creationid="LiarOnce" creationdate="20181112T050501Z">
@@ -1156,6 +1252,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170104T031919Z" creationid="deciia" creationdate="20170104T031919Z">
         <seg>清除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Clear Background with Window Color</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025855Z" creationid="LiarOnce" creationdate="20181118T025855Z">
+        <seg>清除背景与窗口颜色</seg>
       </tuv>
     </tu>
     <tu>
@@ -1488,6 +1592,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Copy a region (Ctrl+C)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025601Z" creationid="LiarOnce" creationdate="20181118T025542Z">
+        <seg>复制区域 (Ctrl + C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Copy selection</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050835Z" creationid="LiarOnce" creationdate="20181112T050835Z">
@@ -1612,6 +1724,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T091819Z" creationid="deciia" creationdate="20170102T091819Z">
         <seg>剪切</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cut a region (Ctrl+X)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025554Z" creationid="LiarOnce" creationdate="20181118T025539Z">
+        <seg>剪切区域 (Ctrl + X)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1920,6 +2040,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Draw background color</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025836Z" creationid="LiarOnce" creationdate="20181118T025836Z">
+        <seg>绘制背景颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Duplicate</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T064216Z" creationid="deciia" creationdate="20170103T112043Z">
@@ -2092,6 +2220,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025229Z" creationid="LiarOnce" creationdate="20181118T025229Z">
         <seg>编辑值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Edit other layers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025815Z" creationid="LiarOnce" creationdate="20181118T025815Z">
+        <seg>编辑其他图层</seg>
       </tuv>
     </tu>
     <tu>
@@ -2478,6 +2614,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170316T123146Z" creationid="deciia" creationdate="20170105T080809Z">
         <seg>文件名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fill a region</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025624Z" creationid="LiarOnce" creationdate="20181118T025624Z">
+        <seg>填充区域</seg>
       </tuv>
     </tu>
     <tu>
@@ -2930,6 +3074,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gravity X:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025644Z" creationid="LiarOnce" creationdate="20181118T025644Z">
+        <seg>重力 X：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gravity Y:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025646Z" creationid="LiarOnce" creationdate="20181118T025646Z">
+        <seg>重力 Y：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Grid</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170102T074429Z" creationid="deciia" creationdate="20170102T074429Z">
@@ -3070,6 +3230,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025301Z" creationid="LiarOnce" creationdate="20181118T025301Z">
         <seg>水平填充：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horizontal Speed:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025840Z" creationid="LiarOnce" creationdate="20181118T025840Z">
+        <seg>水平速度：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3578,6 +3746,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep the changes?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T030029Z" creationid="LiarOnce" creationdate="20181118T030029Z">
+        <seg>保留更改？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Key Press</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T014002Z" creationid="LiarOnce" creationdate="20181118T014002Z">
@@ -3718,6 +3894,38 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181008T045018Z" creationid="LiarOnce" creationdate="20181008T045018Z">
         <seg>左</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left mouse button + Alt = No snap</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T030009Z" creationid="LiarOnce" creationdate="20181118T030009Z">
+        <seg>鼠标左键 + Alt = 无捕捉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left mouse button + Ctrl = Add on top</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025918Z" creationid="LiarOnce" creationdate="20181118T025918Z">
+        <seg>鼠标左键 + Ctrl = 添加到顶部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left mouse button + Shift = Add multiple</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T030013Z" creationid="LiarOnce" creationdate="20181118T030013Z">
+        <seg>鼠标左键 + Shift =添加多个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Left mouse button = Move/Add</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025908Z" creationid="LiarOnce" creationdate="20181118T025908Z">
+        <seg>鼠标左键 = 移动/添加</seg>
       </tuv>
     </tu>
     <tu>
@@ -4610,6 +4818,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Paste a region (Ctrl+V)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025613Z" creationid="LiarOnce" creationdate="20181118T025613Z">
+        <seg>粘贴区域 (Ctrl + V)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Path</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T044218Z" creationid="LiarOnce" creationdate="20181112T044218Z">
@@ -4650,10 +4866,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Physics World Enabled:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025641Z" creationid="LiarOnce" creationdate="20181118T025641Z">
+        <seg>物理世界启用：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pitch</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20170215T152218Z" creationid="deciia" creationdate="20170215T152218Z">
         <seg>音调</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pixels per meter:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025651Z" creationid="LiarOnce" creationdate="20181118T025651Z">
+        <seg>每米像素数：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5178,6 +5410,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Right mouse button = Delete</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T030015Z" creationid="LiarOnce" creationdate="20181118T030015Z">
+        <seg>鼠标右键 = 删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Right orientation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T015221Z" creationid="LiarOnce" creationdate="20181118T015221Z">
@@ -5506,10 +5746,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Select a region</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025630Z" creationid="LiarOnce" creationdate="20181118T025616Z">
+        <seg>选择一个区域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Select all</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050827Z" creationid="LiarOnce" creationdate="20181112T050827Z">
         <seg>全选</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Select an object</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025614Z" creationid="LiarOnce" creationdate="20181118T025614Z">
+        <seg>选择一个对象</seg>
       </tuv>
     </tu>
     <tu>
@@ -5620,10 +5876,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shift all instances</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025535Z" creationid="LiarOnce" creationdate="20181118T025535Z">
+        <seg>移动所有实例</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Shift all instances/tiles</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025530Z" creationid="LiarOnce" creationdate="20181118T025530Z">
         <seg>移动所有实例/图块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shift all tiles</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025534Z" creationid="LiarOnce" creationdate="20181118T025534Z">
+        <seg>转移所有图块</seg>
       </tuv>
     </tu>
     <tu>
@@ -5736,6 +6008,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="36011" changedate="20170315T065939Z" creationid="deciia" creationdate="20170103T125635Z">
         <seg>吸附 Y:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Snap to grid (Alt)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025658Z" creationid="LiarOnce" creationdate="20181118T025658Z">
+        <seg>对齐网格 (Alt)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6116,6 +6396,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tizen (Javascript)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025754Z" creationid="LiarOnce" creationdate="20181118T025754Z">
+        <seg>Tizen (Javascript)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tizen (Native)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025754Z" creationid="LiarOnce" creationdate="20181118T025754Z">
+        <seg>Tizen (Native)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To Moment:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025145Z" creationid="LiarOnce" creationdate="20181118T025145Z">
@@ -6216,6 +6512,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050442Z" creationid="LiarOnce" creationdate="20181112T050442Z">
         <seg>类型：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ubuntu (Linux)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025753Z" creationid="LiarOnce" creationdate="20181118T025753Z">
+        <seg>Ubuntu (Linux)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6484,6 +6788,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vertical Speed:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025846Z" creationid="LiarOnce" creationdate="20181118T025842Z">
+        <seg>垂直速度：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vertical cell offset:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025004Z" creationid="LiarOnce" creationdate="20181118T025004Z">
@@ -6654,10 +6966,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Windows (YYC)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025755Z" creationid="LiarOnce" creationdate="20181118T025755Z">
+        <seg>Windows (YYC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Windows 8 (Javascript)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181112T050745Z" creationid="LiarOnce" creationdate="20181112T050745Z">
         <seg>Windows 8 (Javascript)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows 8 (Native)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025752Z" creationid="LiarOnce" creationdate="20181118T025752Z">
+        <seg>Windows 8 (Native)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Windows Phone 8</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025753Z" creationid="LiarOnce" creationdate="20181118T025753Z">
+        <seg>Windows Phone 8</seg>
       </tuv>
     </tu>
     <tu>
@@ -6870,6 +7206,14 @@ The quick brown fox jumps over the lazy dog.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>iOS (YYC)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025756Z" creationid="LiarOnce" creationdate="20181118T025756Z">
+        <seg>iOS (YYC)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>id:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181030T044703Z" creationid="LiarOnce" creationdate="20181030T044703Z">
@@ -7050,6 +7394,14 @@ The quick brown fox jumps over the lazy dog.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T010548Z" creationid="LiarOnce" creationdate="20181118T010548Z">
         <seg>{0} 已存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{0} bytes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="LiarOnce" changedate="20181118T025805Z" creationid="LiarOnce" creationdate="20181118T025805Z">
+        <seg>{0} 字节</seg>
       </tuv>
     </tu>
     <tu>
