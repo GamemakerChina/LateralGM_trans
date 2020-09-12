@@ -3348,8 +3348,8 @@
       <tuv lang="en-US">
         <seg>Force software vertex processing</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181118T021850Z" creationid="LiarOnce" creationdate="20181118T021824Z">
-        <seg>强制软件顶点处理</seg>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T135911Z" creationid="LiarOnce" creationdate="20181118T021824Z">
+        <seg>强制使用软件处理顶点</seg>
       </tuv>
     </tu>
     <tu>
