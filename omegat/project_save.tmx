@@ -5348,8 +5348,8 @@
       <tuv lang="en-US">
         <seg>Normal Step</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181118T013825Z" creationid="LiarOnce" creationdate="20181118T013825Z">
-        <seg>步正常</seg>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T140125Z" creationid="LiarOnce" creationdate="20181118T013825Z">
+        <seg>步</seg>
       </tuv>
     </tu>
     <tu>
