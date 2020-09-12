@@ -7822,8 +7822,8 @@
       <tuv lang="en-US">
         <seg>Use anyway?</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181118T010540Z" creationid="LiarOnce" creationdate="20181118T010540Z">
-        <seg>还是用吗？</seg>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T135707Z" creationid="LiarOnce" creationdate="20181118T010540Z">
+        <seg>还是要用吗？</seg>
       </tuv>
     </tu>
     <tu>
