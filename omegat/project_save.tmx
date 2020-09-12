@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;h1 style="white-space: nowrap"&gt;Copyright &amp;copy; 2006-2020&lt;/h1&gt;&lt;p style="white-space: nowrap"&gt;Version: {0}&lt;br&gt;&lt;br&gt;IsmAvatar &amp;lt;&lt;a href="mailto:IsmAvatar@gmail.com"&gt;IsmAvatar@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Clam &amp;lt;&lt;a href="mailto:clamisgood@gmail.com"&gt;clamisgood@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Quadduc &amp;lt;&lt;a href="mailto:quadduc@gmail.com"&gt;quadduc@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;TGMG &amp;lt;&lt;a href="mailto:thegamemakerguru@gmail.com"&gt;thegamemakerguru@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Robert B. Colton&lt;br&gt;Egofree &amp;lt;&lt;a href="mailto:egofree71@gmail.com"&gt;egofree71@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Testing: CheeseBoy&lt;br&gt;&lt;br&gt;Special thanks to everyone else who has contributed!&lt;/p&gt;&lt;p&gt;LateralGM comes with ABSOLUTELY NO WARRANTY.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133638Z" creationid="liaronce" creationdate="20200912T133638Z">
+        <seg>&lt;h1 style="white-space: nowrap"&gt;Copyright &amp;copy; 2006-2020&lt;/h1&gt;&lt;p style="white-space: nowrap"&gt;Version: {0}&lt;br&gt;&lt;br&gt;IsmAvatar &amp;lt;&lt;a href="mailto:IsmAvatar@gmail.com"&gt;IsmAvatar@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Clam &amp;lt;&lt;a href="mailto:clamisgood@gmail.com"&gt;clamisgood@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Quadduc &amp;lt;&lt;a href="mailto:quadduc@gmail.com"&gt;quadduc@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;TGMG &amp;lt;&lt;a href="mailto:thegamemakerguru@gmail.com"&gt;thegamemakerguru@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Robert B. Colton&lt;br&gt;Egofree &amp;lt;&lt;a href="mailto:egofree71@gmail.com"&gt;egofree71@gmail.com&lt;/a&gt;&amp;gt;&lt;br&gt;Testing: CheeseBoy&lt;br&gt;&lt;br&gt;Special thanks to everyone else who has contributed!&lt;/p&gt;&lt;p&gt;LateralGM comes with ABSOLUTELY NO WARRANTY.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;html&gt;"{0}"&lt;br/&gt;&lt;p&gt;The URI specified in preferences appears to be malformed.&lt;br/&gt; Verify that you have entered a valid URI and try again.&lt;/p&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181118T005516Z" creationid="LiarOnce" creationdate="20181118T005516Z">
@@ -256,16 +264,16 @@
       <tuv lang="en-US">
         <seg>&lt;html&gt;"{0}"&lt;br&gt;&lt;p&gt;The URI specified in preferences appears to be malformed.&lt;br&gt; Verify that you have entered a valid URI and try again.&lt;/p&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133351Z" creationid="liaronce" creationdate="20200912T133351Z">
-        <seg>&lt;html&gt;“{0}”&lt;br&gt;&lt;p&gt;首选项中指定的 URI 格式似乎不正确。&lt;br&gt;请验证您输入的 URI 是否有效，然后重试。&lt;/p&gt;&lt;/html&gt;</seg>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133537Z" creationid="liaronce" creationdate="20200912T133351Z">
+        <seg>&lt;html&gt;“{0}”&lt;br&gt;&lt;p&gt;偏好设定中指定的 URI 格式似乎不正确。&lt;br&gt;请验证您输入的 URI 是否有效，然后重试。&lt;/p&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;html&gt;"{0}"&lt;br&gt;&lt;p&gt;The URI specified in preferences appears to be unavailable.&lt;br&gt; Verify that you have entered a valid URI or try again later.&lt;/p&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133412Z" creationid="liaronce" creationdate="20200912T133412Z">
-        <seg>&lt;html&gt;“{0}”&lt;br&gt;&lt;p&gt;首选项中指定的 URI 似乎不可用。&lt;br&gt;请验证您是否输入了有效的 URI 或稍后重试。&lt;/p&gt;&lt;/html&gt;</seg>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133545Z" creationid="liaronce" creationdate="20200912T133412Z">
+        <seg>&lt;html&gt;“{0}”&lt;br&gt;&lt;p&gt;偏好设定中指定的 URI 似乎不可用。&lt;br&gt;请验证您是否输入了有效的 URI 或稍后重试。&lt;/p&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,10 +286,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;html&gt;&lt;p style='width: 500px;'&gt;The desktop either does not have an associated editor installed or the associated editor failed to be launched.&lt;br&gt;&lt;br&gt;Verify that you have installed a compatible external editor and registered it for the appropriate MIME type or configure an external editor command for this resource in preferences.&lt;/p&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133613Z" creationid="liaronce" creationdate="20200912T133613Z">
+        <seg>&lt;html&gt;&lt;p style=‘width：500px；’&gt;桌面没有安装关联的编辑器，或者关联的编辑器启动失败。&lt;br&gt;&lt;br&gt;验证您是否安装了兼容的外部编辑器并将其注册为适当的 MIME 类型，或者在首选项中为此资源配置外部编辑器命令。&lt;/p&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;html&gt;&lt;p&gt;The current platform does not support the desktop edit operation.&lt;br&gt;&lt;br&gt;Configure an external editor command for this resource in preferences.&lt;/p&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133436Z" creationid="liaronce" creationdate="20200912T133436Z">
-        <seg>&lt;html&gt;&lt;p&gt;当前平台不支持桌面编辑操作。&lt;br&gt;&lt;br&gt;在首选项中为此资源配置外部编辑器命令。&lt;/p&gt;&lt;/html&gt;</seg>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133553Z" creationid="liaronce" creationdate="20200912T133436Z">
+        <seg>&lt;html&gt;&lt;p&gt;当前平台不支持桌面编辑操作。&lt;br&gt;&lt;br&gt;在偏好设定中为此资源配置外部编辑器命令。&lt;/p&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2000,6 +2016,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Defragging may still yield better performance and compression.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133647Z" creationid="liaronce" creationdate="20200912T133647Z">
+        <seg>碎片整理仍可能产生更好的性能和压缩效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Delete</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181009T044257Z" creationid="LiarOnce" creationdate="20181009T044257Z">
@@ -2284,6 +2308,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="deciia" changedate="20170102T044213Z" creationid="deciia" creationdate="20170102T044213Z">
         <seg>绘制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Draw GUI</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133744Z" creationid="liaronce" creationdate="20200912T133736Z">
+        <seg>绘制 GUI</seg>
       </tuv>
     </tu>
     <tu>
@@ -3402,6 +3434,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Game Maker Backup Files (*.gb1;*.gb2;*.gb3;*.gb4;*.gb5;*.gb6;*.gb7;*.gb8;*.gb9)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133641Z" creationid="liaronce" creationdate="20200912T133641Z">
+        <seg>Game Maker Backup Files (*.gb1;*.gb2;*.gb3;*.gb4;*.gb5;*.gb6;*.gb7;*.gb8;*.gb9)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Game Maker Studio Files (*.project.gmx)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181118T010208Z" creationid="LiarOnce" creationdate="20181118T010208Z">
@@ -3510,6 +3550,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181118T025646Z" creationid="LiarOnce" creationdate="20181118T025646Z">
         <seg>重力 Y：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grazing the llama's</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133734Z" creationid="liaronce" creationdate="20200912T133734Z">
+        <seg>Grazing the llama's</seg>
       </tuv>
     </tu>
     <tu>
@@ -6632,6 +6680,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181118T024724Z" creationid="LiarOnce" creationdate="20181118T024724Z">
         <seg>显示边框</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show Event Selector</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133650Z" creationid="liaronce" creationdate="20200912T133650Z">
+        <seg>显示事件选择器</seg>
       </tuv>
     </tu>
     <tu>
