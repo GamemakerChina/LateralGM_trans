@@ -968,10 +968,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Auto</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133917Z" creationid="liaronce" creationdate="20200912T133917Z">
+        <seg>自动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Automatic</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="deciia" changedate="20170103T151700Z" creationid="deciia" creationdate="20170103T151700Z">
         <seg>自动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Automatically save the project every so many minutes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133919Z" creationid="liaronce" creationdate="20200912T133919Z">
+        <seg>每隔几分钟自动保存一次项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1044,6 +1060,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181118T032853Z" creationid="LiarOnce" creationdate="20181008T051417Z">
         <seg>Backgrounds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Backups</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133908Z" creationid="liaronce" creationdate="20200912T133908Z">
+        <seg>备份</seg>
       </tuv>
     </tu>
     <tu>
@@ -1776,6 +1800,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Copies:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133925Z" creationid="liaronce" creationdate="20200912T133925Z">
+        <seg>副本：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Copy</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="deciia" changedate="20170102T091859Z" creationid="deciia" creationdate="20170102T091859Z">
@@ -1908,6 +1940,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="deciia" changedate="20170104T022656Z" creationid="deciia" creationdate="20170104T022656Z">
         <seg>自定义</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Custom folder:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133906Z" creationid="liaronce" creationdate="20200912T133906Z">
+        <seg>自定义文件夹：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2192,6 +2232,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disable screensavers and power saving actions</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133949Z" creationid="liaronce" creationdate="20200912T133949Z">
+        <seg>禁用屏幕保护程序和节能操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Disk (gm8)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181118T024815Z" creationid="LiarOnce" creationdate="20181118T024815Z">
@@ -2280,6 +2328,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Don't export by default</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133903Z" creationid="liaronce" creationdate="20200912T133903Z">
+        <seg>默认情况下不导出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Don't show the buttons in the window caption</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181118T021838Z" creationid="LiarOnce" creationdate="20181118T021838Z">
@@ -2312,10 +2368,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Draw Begin</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133747Z" creationid="liaronce" creationdate="20200912T133747Z">
+        <seg>绘制开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Draw End</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133801Z" creationid="liaronce" creationdate="20200912T133801Z">
+        <seg>绘制结束</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Draw GUI</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133744Z" creationid="liaronce" creationdate="20200912T133736Z">
         <seg>绘制 GUI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Draw GUI Begin</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133806Z" creationid="liaronce" creationdate="20200912T133806Z">
+        <seg>绘制 GUI 开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Draw GUI End</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133809Z" creationid="liaronce" creationdate="20200912T133809Z">
+        <seg>绘制 GUI 结束</seg>
       </tuv>
     </tu>
     <tu>
@@ -2762,6 +2850,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Exit saves without confirmation.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133923Z" creationid="liaronce" creationdate="20200912T133923Z">
+        <seg>退出保存而不进行确认。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Expand				E</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181112T045820Z" creationid="LiarOnce" creationdate="20181112T045820Z">
@@ -2774,6 +2870,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="deciia" changedate="20180921T154319Z" creationid="deciia" creationdate="20180921T154319Z">
         <seg>全部展开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Expand object event tree by default</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133944Z" creationid="liaronce" creationdate="20200912T133944Z">
+        <seg>默认情况下展开对象事件树</seg>
       </tuv>
     </tu>
     <tu>
@@ -2798,6 +2902,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="deciia" changedate="20170106T161117Z" creationid="deciia" creationdate="20170106T161117Z">
         <seg>导出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export Action</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133901Z" creationid="liaronce" creationdate="20200912T133901Z">
+        <seg>导出操作</seg>
       </tuv>
     </tu>
     <tu>
@@ -2918,6 +3030,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181118T020648Z" creationid="LiarOnce" creationdate="20181118T020648Z">
         <seg>文件扩展名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>File Name:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133840Z" creationid="liaronce" creationdate="20200912T133840Z">
+        <seg>文件名：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3254,6 +3374,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181112T045112Z" creationid="LiarOnce" creationdate="20181112T045112Z">
         <seg>片段代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Free memory after export</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133859Z" creationid="liaronce" creationdate="20200912T133859Z">
+        <seg>导出后释放内存</seg>
       </tuv>
     </tu>
     <tu>
@@ -4234,6 +4362,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Keep a number of old copies when saving a project.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133913Z" creationid="liaronce" creationdate="20200912T133913Z">
+        <seg>保存项目时保留一些旧副本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Keep aspect ratio</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="deciia" changedate="20170102T095526Z" creationid="deciia" creationdate="20170102T095526Z">
@@ -4562,6 +4698,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Load Data</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133829Z" creationid="liaronce" creationdate="20200912T133829Z">
+        <seg>加载数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Load Image</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181118T025240Z" creationid="LiarOnce" creationdate="20181118T025238Z">
@@ -4590,6 +4734,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181112T050518Z" creationid="LiarOnce" creationdate="20181112T050518Z">
         <seg>加载子图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Load data from file</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133833Z" creationid="liaronce" creationdate="20200912T133833Z">
+        <seg>从文件加载数据</seg>
       </tuv>
     </tu>
     <tu>
@@ -4822,6 +4974,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181112T044830Z" creationid="LiarOnce" creationdate="20181112T044830Z">
         <seg>最小化所有		M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Minutes:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133938Z" creationid="liaronce" creationdate="20200912T133938Z">
+        <seg>分钟：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5346,6 +5506,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Original File: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133847Z" creationid="liaronce" creationdate="20200912T133847Z">
+        <seg>原始文件： {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181006T140251Z" creationid="LiarOnce" creationdate="20181006T140251Z">
@@ -5414,6 +5582,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181118T020131Z" creationid="LiarOnce" creationdate="20181118T020131Z">
         <seg>外部颜色：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overwrite existing file</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133849Z" creationid="liaronce" creationdate="20200912T133849Z">
+        <seg>覆盖现有文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -5634,10 +5810,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Post Draw</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133824Z" creationid="liaronce" creationdate="20200912T133824Z">
+        <seg>后期绘制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Postponed References</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181118T010717Z" creationid="LiarOnce" creationdate="20181118T010717Z">
         <seg>已推迟的引用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pre Draw</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133819Z" creationid="liaronce" creationdate="20200912T133819Z">
+        <seg>预绘制</seg>
       </tuv>
     </tu>
     <tu>
@@ -5934,6 +6126,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181118T025134Z" creationid="LiarOnce" creationdate="20181118T025134Z">
         <seg>删除所有的时刻？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remove file at end of game</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133852Z" creationid="liaronce" creationdate="20200912T133852Z">
+        <seg>在游戏结束时删除文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -6322,6 +6522,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Save Changes &amp; Close</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T134129Z" creationid="liaronce" creationdate="20200912T134129Z">
+        <seg>保存更改并关闭(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save Data</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133831Z" creationid="liaronce" creationdate="20200912T133831Z">
+        <seg>保存数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Save File</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181118T010544Z" creationid="LiarOnce" creationdate="20181118T010544Z">
@@ -6350,6 +6566,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181118T024709Z" creationid="LiarOnce" creationdate="20181118T024709Z">
         <seg>保存子图像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save data to file</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133837Z" creationid="liaronce" creationdate="20200912T133837Z">
+        <seg>将数据保存到文件中</seg>
       </tuv>
     </tu>
     <tu>
@@ -6764,6 +6988,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Size: {0} bytes</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133845Z" creationid="liaronce" creationdate="20200912T133845Z">
+        <seg>大小：{0} 字节</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Smooth</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="deciia" changedate="20170103T070901Z" creationid="deciia" creationdate="20170103T070901Z">
@@ -6984,6 +7216,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181112T050314Z" creationid="LiarOnce" creationdate="20181112T050314Z">
         <seg>停止播放</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Store in the project editable</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133856Z" creationid="liaronce" creationdate="20200912T133856Z">
+        <seg>存储在可编辑的项目中</seg>
       </tuv>
     </tu>
     <tu>
