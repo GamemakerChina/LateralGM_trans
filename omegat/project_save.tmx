@@ -4602,6 +4602,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lazy Formal Comments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T135529Z" creationid="liaronce" creationdate="20200912T135529Z">
+        <seg>懒惰注释</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lazy Formal Line Comments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T135542Z" creationid="liaronce" creationdate="20200912T135533Z">
+        <seg>懒惰行注释</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Left</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181008T045018Z" creationid="LiarOnce" creationdate="20181008T045018Z">
