@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;no resources&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T134156Z" creationid="liaronce" creationdate="20200912T134156Z">
+        <seg>&lt;无资源&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;no room&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181112T050437Z" creationid="LiarOnce" creationdate="20181112T050437Z">
@@ -1068,6 +1076,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T133908Z" creationid="liaronce" creationdate="20200912T133908Z">
         <seg>备份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Basic</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T134149Z" creationid="liaronce" creationdate="20200912T134149Z">
+        <seg>基本信息</seg>
       </tuv>
     </tu>
     <tu>
@@ -1780,6 +1796,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181118T032848Z" creationid="LiarOnce" creationdate="20181008T051751Z">
         <seg>Constants</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Context:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T134158Z" creationid="liaronce" creationdate="20200912T134158Z">
+        <seg>上下文：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3114,6 +3138,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Filename: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T134133Z" creationid="liaronce" creationdate="20200912T134133Z">
+        <seg>文件名： {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Files to include in the Executable</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181118T030150Z" creationid="LiarOnce" creationdate="20181118T030150Z">
@@ -4162,6 +4194,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Input</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T134153Z" creationid="liaronce" creationdate="20200912T134153Z">
+        <seg>输入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Insert</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="deciia" changedate="20180923T093856Z" creationid="deciia" creationdate="20170103T104429Z">
@@ -4462,6 +4502,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181118T030524Z" creationid="LiarOnce" creationdate="20181118T030524Z">
         <seg>按键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Kind</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T134136Z" creationid="liaronce" creationdate="20200912T134136Z">
+        <seg>种类</seg>
       </tuv>
     </tu>
     <tu>
@@ -4954,6 +5002,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Memory: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T134131Z" creationid="liaronce" creationdate="20200912T134131Z">
+        <seg>内存： {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Merge</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="deciia" changedate="20170103T132702Z" creationid="deciia" creationdate="20170103T132702Z">
@@ -5014,6 +5070,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181118T025106Z" creationid="LiarOnce" creationdate="20181118T025106Z">
         <seg>时刻已经存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T134142Z" creationid="liaronce" creationdate="20200912T134142Z">
+        <seg>时刻</seg>
       </tuv>
     </tu>
     <tu>
@@ -7116,6 +7180,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Special</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T134152Z" creationid="liaronce" creationdate="20200912T134152Z">
+        <seg>特殊</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Speed</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="deciia" changedate="20170103T104721Z" creationid="deciia" creationdate="20170103T104716Z">
@@ -8510,6 +8582,14 @@ The quick brown fox jumps over the lazy dog.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{0} : {1}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T134145Z" creationid="liaronce" creationdate="20200912T134145Z">
+        <seg>{0} : {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{0} Event</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181118T013802Z" creationid="LiarOnce" creationdate="20181118T013802Z">
@@ -8554,6 +8634,14 @@ The quick brown fox jumps over the lazy dog.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="LiarOnce" changedate="20181118T005812Z" creationid="LiarOnce" creationdate="20181118T005812Z">
         <seg>{0} 不是有效的 GM 文件，初始标识符无效：{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{0} to {1}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="liaronce" changedate="20200912T134140Z" creationid="liaronce" creationdate="20200912T134140Z">
+        <seg>{0} 到 {1}</seg>
       </tuv>
     </tu>
     <tu>
